@@ -3,7 +3,7 @@
   <Nodes>
     <Node ToolID="25">
       <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-        <Position x="198" y="114" width="129.0977" height="24" />
+        <Position x="270" y="186" width="129.0977" height="24" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -21,7 +21,7 @@
       <ChildNodes>
         <Node ToolID="1">
           <GuiSettings Plugin="AlteryxBasePluginsGui.FindReplace.FindReplace">
-            <Position x="1170" y="222" />
+            <Position x="1242" y="294" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -45,7 +45,7 @@
         </Node>
         <Node ToolID="2">
           <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
-            <Position x="1074" y="258" />
+            <Position x="1146" y="330" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -79,7 +79,7 @@
         </Node>
         <Node ToolID="3">
           <GuiSettings Plugin="AlteryxBasePluginsGui.FindReplace.FindReplace">
-            <Position x="1074" y="210" />
+            <Position x="1146" y="282" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -103,7 +103,7 @@
         </Node>
         <Node ToolID="4">
           <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
-            <Position x="882" y="234" />
+            <Position x="954" y="306" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -137,7 +137,7 @@
         </Node>
         <Node ToolID="5">
           <GuiSettings Plugin="AlteryxBasePluginsGui.FindReplace.FindReplace">
-            <Position x="978" y="198" />
+            <Position x="1050" y="270" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -161,7 +161,7 @@
         </Node>
         <Node ToolID="6">
           <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
-            <Position x="486" y="270" />
+            <Position x="558" y="342" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -335,7 +335,7 @@
         </Node>
         <Node ToolID="7">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-            <Position x="858" y="174" />
+            <Position x="930" y="246" />
           </GuiSettings>
           <Properties>
             <Configuration joinByRecordPos="False">
@@ -369,7 +369,7 @@
         </Node>
         <Node ToolID="8">
           <GuiSettings>
-            <Position x="642" y="270" />
+            <Position x="714" y="342" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -395,7 +395,7 @@
         </Node>
         <Node ToolID="9">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="558" y="270" />
+            <Position x="630" y="342" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -419,7 +419,7 @@
         </Node>
         <Node ToolID="10">
           <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-            <Position x="222" y="186" />
+            <Position x="294" y="258" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -457,7 +457,7 @@ Table=Select ARSPLIT.ARPFOC.ORIGINAL_HCV_SCREEN_TEST_ORDER_NUMBER, ARSPLIT.ARPFO
         </Node>
         <Node ToolID="11">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="1266" y="222" />
+            <Position x="1338" y="294" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -485,7 +485,7 @@ Table=Select ARSPLIT.ARPFOC.ORIGINAL_HCV_SCREEN_TEST_ORDER_NUMBER, ARSPLIT.ARPFO
         </Node>
         <Node ToolID="12">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="414" y="174" />
+            <Position x="486" y="246" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -511,7 +511,7 @@ Table=Select ARSPLIT.ARPFOC.ORIGINAL_HCV_SCREEN_TEST_ORDER_NUMBER, ARSPLIT.ARPFO
         </Node>
         <Node ToolID="13">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
-            <Position x="510" y="174" />
+            <Position x="582" y="246" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -540,7 +540,7 @@ Table=Select ARSPLIT.ARPFOC.ORIGINAL_HCV_SCREEN_TEST_ORDER_NUMBER, ARSPLIT.ARPFO
         </Node>
         <Node ToolID="14">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="606" y="174" />
+            <Position x="678" y="246" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -573,7 +573,7 @@ Table=Select ARSPLIT.ARPFOC.ORIGINAL_HCV_SCREEN_TEST_ORDER_NUMBER, ARSPLIT.ARPFO
         </Node>
         <Node ToolID="15">
           <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
-            <Position x="702" y="162" />
+            <Position x="774" y="234" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -611,7 +611,7 @@ Table=Select ARSPLIT.ARPFOC.ORIGINAL_HCV_SCREEN_TEST_ORDER_NUMBER, ARSPLIT.ARPFO
         </Node>
         <Node ToolID="16">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="330" y="186" />
+            <Position x="402" y="258" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -643,7 +643,7 @@ Table=Select ARSPLIT.ARPFOC.ORIGINAL_HCV_SCREEN_TEST_ORDER_NUMBER, ARSPLIT.ARPFO
         </Node>
         <Node ToolID="17">
           <GuiSettings>
-            <Position x="702" y="210" />
+            <Position x="774" y="282" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -659,7 +659,7 @@ Table=Select ARSPLIT.ARPFOC.ORIGINAL_HCV_SCREEN_TEST_ORDER_NUMBER, ARSPLIT.ARPFO
         </Node>
         <Node ToolID="18">
           <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-            <Position x="798" y="222" />
+            <Position x="870" y="294" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -689,7 +689,7 @@ Table=Select ARSPLIT.ARPFOC.ORIGINAL_HCV_SCREEN_TEST_ORDER_NUMBER, ARSPLIT.ARPFO
         </Node>
         <Node ToolID="19">
           <GuiSettings Plugin="PortfolioPluginsGui.Email.Email">
-            <Position x="798" y="318" />
+            <Position x="870" y="390" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -718,7 +718,7 @@ Table=Select ARSPLIT.ARPFOC.ORIGINAL_HCV_SCREEN_TEST_ORDER_NUMBER, ARSPLIT.ARPFO
         </Node>
         <Node ToolID="20">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-            <Position x="1350" y="174" />
+            <Position x="1422" y="246" />
           </GuiSettings>
           <Properties>
             <Configuration joinByRecordPos="False">
@@ -763,7 +763,7 @@ Table=Select ARSPLIT.ARPFOC.ORIGINAL_HCV_SCREEN_TEST_ORDER_NUMBER, ARSPLIT.ARPFO
         </Node>
         <Node ToolID="21">
           <GuiSettings>
-            <Position x="1542" y="174" />
+            <Position x="1614" y="246" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -789,7 +789,7 @@ Table=Select ARSPLIT.ARPFOC.ORIGINAL_HCV_SCREEN_TEST_ORDER_NUMBER, ARSPLIT.ARPFO
         </Node>
         <Node ToolID="22">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="1638" y="174" />
+            <Position x="1710" y="246" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -808,7 +808,7 @@ Table=Select ARSPLIT.ARPFOC.ORIGINAL_HCV_SCREEN_TEST_ORDER_NUMBER, ARSPLIT.ARPFO
         </Node>
         <Node ToolID="23">
           <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-            <Position x="1758" y="174" />
+            <Position x="1830" y="246" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -837,7 +837,7 @@ Table=DataSci.ed.HCVLTC</DefaultAnnotationText>
         </Node>
         <Node ToolID="24">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="1446" y="174" />
+            <Position x="1518" y="246" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -866,9 +866,9 @@ Table=DataSci.ed.HCVLTC</DefaultAnnotationText>
         </Node>
       </ChildNodes>
     </Node>
-    <Node ToolID="67">
+    <Node ToolID="62">
       <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-        <Position x="28.99998" y="173" width="139.352" height="24" />
+        <Position x="42" y="234" width="139.352" height="24" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -886,7 +886,7 @@ Table=DataSci.ed.HCVLTC</DefaultAnnotationText>
       <ChildNodes>
         <Node ToolID="26">
           <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-            <Position x="54.00003" y="330" />
+            <Position x="66.00002" y="390" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -932,7 +932,7 @@ Table=Select ARSPLIT.ARPORL.ORHSP#, ARSPLIT.ARPORL.ORSSN, ARSPLIT.ARPORL.ORSSNF,
         </Node>
         <Node ToolID="27">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="162" y="330" />
+            <Position x="174" y="390" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -964,7 +964,7 @@ Table=Select ARSPLIT.ARPORL.ORHSP#, ARSPLIT.ARPORL.ORSSN, ARSPLIT.ARPORL.ORSSNF,
         </Node>
         <Node ToolID="28">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="570" y="234" />
+            <Position x="582" y="294" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -996,7 +996,7 @@ Table=Select ARSPLIT.ARPORL.ORHSP#, ARSPLIT.ARPORL.ORSSN, ARSPLIT.ARPORL.ORSSNF,
         </Node>
         <Node ToolID="29">
           <GuiSettings>
-            <Position x="641.9999" y="306" />
+            <Position x="653.9999" y="366" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1022,7 +1022,7 @@ Table=Select ARSPLIT.ARPORL.ORHSP#, ARSPLIT.ARPORL.ORSSN, ARSPLIT.ARPORL.ORSSNF,
         </Node>
         <Node ToolID="30">
           <GuiSettings Plugin="AlteryxBasePluginsGui.RegEx.RegEx">
-            <Position x="738" y="306" />
+            <Position x="750" y="366" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1058,7 +1058,7 @@ Table=Select ARSPLIT.ARPORL.ORHSP#, ARSPLIT.ARPORL.ORSSN, ARSPLIT.ARPORL.ORSSNF,
         </Node>
         <Node ToolID="31">
           <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
-            <Position x="929.9999" y="306" />
+            <Position x="941.9999" y="366" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1115,7 +1115,7 @@ Table=Select ARSPLIT.ARPORL.ORHSP#, ARSPLIT.ARPORL.ORSSN, ARSPLIT.ARPORL.ORSSNF,
         </Node>
         <Node ToolID="32">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="1026" y="306" />
+            <Position x="1038" y="366" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1138,7 +1138,7 @@ Table=Select ARSPLIT.ARPORL.ORHSP#, ARSPLIT.ARPORL.ORSSN, ARSPLIT.ARPORL.ORSSNF,
         </Node>
         <Node ToolID="33">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="1122" y="306" />
+            <Position x="1134" y="366" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1179,7 +1179,7 @@ Table=Select ARSPLIT.ARPORL.ORHSP#, ARSPLIT.ARPORL.ORSSN, ARSPLIT.ARPORL.ORSSNF,
         </Node>
         <Node ToolID="34">
           <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-            <Position x="53.99997" y="234" />
+            <Position x="65.99998" y="294" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1222,7 +1222,7 @@ Table=Select ARSPLIT.ARPORL.ORHSP#, ARSPLIT.ARPORL.ORSSN, ARSPLIT.ARPORL.ORSSNF,
         </Node>
         <Node ToolID="35">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-            <Position x="474" y="246" />
+            <Position x="486" y="306" />
           </GuiSettings>
           <Properties>
             <Configuration joinByRecordPos="False">
@@ -1263,7 +1263,7 @@ Table=Select ARSPLIT.ARPORL.ORHSP#, ARSPLIT.ARPORL.ORSSN, ARSPLIT.ARPORL.ORSSNF,
         </Node>
         <Node ToolID="36">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-            <Position x="270" y="318" />
+            <Position x="282" y="378" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1287,7 +1287,7 @@ ORORY4 - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="37">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Unique.Unique">
-            <Position x="450" y="318" />
+            <Position x="462" y="378" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1307,7 +1307,7 @@ ORORY4 - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="38">
           <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-            <Position x="677.9999" y="222" />
+            <Position x="689.9999" y="282" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1337,7 +1337,7 @@ ORORY4 - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="39">
           <GuiSettings>
-            <Position x="2634" y="390" />
+            <Position x="2646" y="450" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1363,7 +1363,7 @@ ORORY4 - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="40">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="2730" y="390" />
+            <Position x="2742" y="450" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1382,7 +1382,7 @@ ORORY4 - Ascending</DefaultAnnotationText>
         </Node>
         <Node ToolID="41">
           <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-            <Position x="2850" y="390" />
+            <Position x="2862" y="450" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1410,45 +1410,8 @@ Table=DataSci.ed.HBVPanel</DefaultAnnotationText>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
         </Node>
         <Node ToolID="42">
-          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-            <Position x="342" y="450" />
-          </GuiSettings>
-          <Properties>
-            <Configuration>
-              <Passwords>483DB0ED52F283CF104BF7CAE8D0E90F04ADE088A</Passwords>
-              <File RecordLimit="" FileFormat="18">odb:Provider=SQLOLEDB;Password=__EncPwd1__;Persist Security Info=True;User ID=hmedread;Data Source=172.16.24.84;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Workstation ID=YAMADA-Z230;Use Encryption for Data=False;Tag with column collation when possible=False|||Select HolyName_ARCH.dbo.pt_addnl_curstat.hosp_enct_no, HolyName_ARCH.dbo.OEOrders.date_time, HolyName_ARCH.dbo.OEOrders.cancel_flag, HolyName_ARCH.dbo.OEOrders.user_id, sysUser_Info.User_LName, sysUser_Info.User_FName, HolyName_ARCH.dbo.OEOrders.mpi_id From HolyName_ARCH.dbo.OEOrders Inner Join HolyName_ARCH.dbo.pt_addnl_curstat On HolyName_ARCH.dbo.OEOrders.mpi_id = HolyName_ARCH.dbo.pt_addnl_curstat.mpi_id And HolyName_ARCH.dbo.OEOrders.enct_num = HolyName_ARCH.dbo.pt_addnl_curstat.pt_enct_no Inner Join sysUser_Info On HolyName_ARCH.dbo.OEOrders.user_id = sysUser_Info.User_Id Where HolyName_ARCH.dbo.OEOrders.Universal_ServiceID = 'FHBV'</File>
-              <FormatSpecificOptions>
-                <PreSQLOnConfig>True</PreSQLOnConfig>
-                <NoProgress>True</NoProgress>
-                <ReadUncommitted>False</ReadUncommitted>
-                <TableStyle>Quoted</TableStyle>
-                <PreSQL />
-                <PostSQL />
-              </FormatSpecificOptions>
-            </Configuration>
-            <Annotation DisplayMode="0">
-              <Name />
-              <DefaultAnnotationText>Source=172.16.24.84
-Table=Select HolyName_ARCH.dbo.pt_addnl_curstat.hosp_enct_no, HolyName_ARCH.dbo.OEOrders.date_time, HolyName_ARCH.dbo.OEOrders.cancel_flag, HolyName_ARCH.dbo.OEOrders.user_id, sysUser_Info.User_LName, sysUser_Info.User_FName, HolyName_ARCH.dbo.OEOrders.mpi_id From HolyName_ARCH.dbo.OEOrders Inner Join HolyName_ARCH.dbo.pt_addnl_curstat On HolyName_ARCH.dbo.OEOrders.mpi_id = HolyName_ARCH.dbo.pt_addnl_curstat.mpi_id And HolyName_ARCH.dbo.OEOrders.enct_num = HolyName_ARCH.dbo.pt_addnl_curstat.pt_enct_no Inner Join sysUser_Info On HolyName_ARCH.dbo.OEOrders.user_id = sysUser_Info.User_Id Where HolyName_ARCH.dbo.OEOrders.Universal_ServiceID = 'FHBV'</DefaultAnnotationText>
-              <Left value="False" />
-            </Annotation>
-            <MetaInfo connection="Output">
-              <RecordInfo>
-                <Field name="hosp_enct_no" size="255" source="File: odb:Provider=SQLOLEDB;Password=__EncPwd1__;Persist Security Info=True;User ID=hmedread;Data Source=172.16.24.84;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Workstation ID=YAMADA-Z230;Use Encryption for Data=False;Tag with column collation when possible=False|||Select HolyName_ARCH.dbo.pt_addnl_curstat.hosp_enct_no, HolyName_ARCH.dbo.OEOrders.date_time, HolyName_ARCH.dbo.OEOrders.cancel_flag, HolyName_ARCH.dbo.OEOrders.user_id, sysUser_Info.User_LName, sysUser_Info.User_FName, HolyName_ARCH.dbo.OEOrders.mpi_id From HolyName_ARCH.dbo.OEOrders Inner Join HolyName_ARCH.dbo.pt_addnl_curstat On HolyName_ARCH.dbo.OEOrders.mpi_id = HolyName_ARCH.dbo.pt_addnl_curstat.mpi_id And HolyName_ARCH.dbo.OEOrders.enct_num = HolyName_ARCH.dbo.pt_addnl_curstat.pt_enct_no Inner Join sysUser_Info On HolyName_ARCH.dbo.OEOrders.user_id = sysUser_Info.User_Id Where HolyName_ARCH.dbo.OEOrders.Universal_ServiceID = 'FHBV'" type="V_String" />
-                <Field name="date_time" source="File: odb:Provider=SQLOLEDB;Password=__EncPwd1__;Persist Security Info=True;User ID=hmedread;Data Source=172.16.24.84;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Workstation ID=YAMADA-Z230;Use Encryption for Data=False;Tag with column collation when possible=False|||Select HolyName_ARCH.dbo.pt_addnl_curstat.hosp_enct_no, HolyName_ARCH.dbo.OEOrders.date_time, HolyName_ARCH.dbo.OEOrders.cancel_flag, HolyName_ARCH.dbo.OEOrders.user_id, sysUser_Info.User_LName, sysUser_Info.User_FName, HolyName_ARCH.dbo.OEOrders.mpi_id From HolyName_ARCH.dbo.OEOrders Inner Join HolyName_ARCH.dbo.pt_addnl_curstat On HolyName_ARCH.dbo.OEOrders.mpi_id = HolyName_ARCH.dbo.pt_addnl_curstat.mpi_id And HolyName_ARCH.dbo.OEOrders.enct_num = HolyName_ARCH.dbo.pt_addnl_curstat.pt_enct_no Inner Join sysUser_Info On HolyName_ARCH.dbo.OEOrders.user_id = sysUser_Info.User_Id Where HolyName_ARCH.dbo.OEOrders.Universal_ServiceID = 'FHBV'" type="DateTime" />
-                <Field name="cancel_flag" size="1" source="File: odb:Provider=SQLOLEDB;Password=__EncPwd1__;Persist Security Info=True;User ID=hmedread;Data Source=172.16.24.84;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Workstation ID=YAMADA-Z230;Use Encryption for Data=False;Tag with column collation when possible=False|||Select HolyName_ARCH.dbo.pt_addnl_curstat.hosp_enct_no, HolyName_ARCH.dbo.OEOrders.date_time, HolyName_ARCH.dbo.OEOrders.cancel_flag, HolyName_ARCH.dbo.OEOrders.user_id, sysUser_Info.User_LName, sysUser_Info.User_FName, HolyName_ARCH.dbo.OEOrders.mpi_id From HolyName_ARCH.dbo.OEOrders Inner Join HolyName_ARCH.dbo.pt_addnl_curstat On HolyName_ARCH.dbo.OEOrders.mpi_id = HolyName_ARCH.dbo.pt_addnl_curstat.mpi_id And HolyName_ARCH.dbo.OEOrders.enct_num = HolyName_ARCH.dbo.pt_addnl_curstat.pt_enct_no Inner Join sysUser_Info On HolyName_ARCH.dbo.OEOrders.user_id = sysUser_Info.User_Id Where HolyName_ARCH.dbo.OEOrders.Universal_ServiceID = 'FHBV'" type="String" />
-                <Field name="user_id" size="20" source="File: odb:Provider=SQLOLEDB;Password=__EncPwd1__;Persist Security Info=True;User ID=hmedread;Data Source=172.16.24.84;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Workstation ID=YAMADA-Z230;Use Encryption for Data=False;Tag with column collation when possible=False|||Select HolyName_ARCH.dbo.pt_addnl_curstat.hosp_enct_no, HolyName_ARCH.dbo.OEOrders.date_time, HolyName_ARCH.dbo.OEOrders.cancel_flag, HolyName_ARCH.dbo.OEOrders.user_id, sysUser_Info.User_LName, sysUser_Info.User_FName, HolyName_ARCH.dbo.OEOrders.mpi_id From HolyName_ARCH.dbo.OEOrders Inner Join HolyName_ARCH.dbo.pt_addnl_curstat On HolyName_ARCH.dbo.OEOrders.mpi_id = HolyName_ARCH.dbo.pt_addnl_curstat.mpi_id And HolyName_ARCH.dbo.OEOrders.enct_num = HolyName_ARCH.dbo.pt_addnl_curstat.pt_enct_no Inner Join sysUser_Info On HolyName_ARCH.dbo.OEOrders.user_id = sysUser_Info.User_Id Where HolyName_ARCH.dbo.OEOrders.Universal_ServiceID = 'FHBV'" type="V_String" />
-                <Field name="User_LName" size="20" source="File: odb:Provider=SQLOLEDB;Password=__EncPwd1__;Persist Security Info=True;User ID=hmedread;Data Source=172.16.24.84;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Workstation ID=YAMADA-Z230;Use Encryption for Data=False;Tag with column collation when possible=False|||Select HolyName_ARCH.dbo.pt_addnl_curstat.hosp_enct_no, HolyName_ARCH.dbo.OEOrders.date_time, HolyName_ARCH.dbo.OEOrders.cancel_flag, HolyName_ARCH.dbo.OEOrders.user_id, sysUser_Info.User_LName, sysUser_Info.User_FName, HolyName_ARCH.dbo.OEOrders.mpi_id From HolyName_ARCH.dbo.OEOrders Inner Join HolyName_ARCH.dbo.pt_addnl_curstat On HolyName_ARCH.dbo.OEOrders.mpi_id = HolyName_ARCH.dbo.pt_addnl_curstat.mpi_id And HolyName_ARCH.dbo.OEOrders.enct_num = HolyName_ARCH.dbo.pt_addnl_curstat.pt_enct_no Inner Join sysUser_Info On HolyName_ARCH.dbo.OEOrders.user_id = sysUser_Info.User_Id Where HolyName_ARCH.dbo.OEOrders.Universal_ServiceID = 'FHBV'" type="V_String" />
-                <Field name="User_FName" size="20" source="File: odb:Provider=SQLOLEDB;Password=__EncPwd1__;Persist Security Info=True;User ID=hmedread;Data Source=172.16.24.84;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Workstation ID=YAMADA-Z230;Use Encryption for Data=False;Tag with column collation when possible=False|||Select HolyName_ARCH.dbo.pt_addnl_curstat.hosp_enct_no, HolyName_ARCH.dbo.OEOrders.date_time, HolyName_ARCH.dbo.OEOrders.cancel_flag, HolyName_ARCH.dbo.OEOrders.user_id, sysUser_Info.User_LName, sysUser_Info.User_FName, HolyName_ARCH.dbo.OEOrders.mpi_id From HolyName_ARCH.dbo.OEOrders Inner Join HolyName_ARCH.dbo.pt_addnl_curstat On HolyName_ARCH.dbo.OEOrders.mpi_id = HolyName_ARCH.dbo.pt_addnl_curstat.mpi_id And HolyName_ARCH.dbo.OEOrders.enct_num = HolyName_ARCH.dbo.pt_addnl_curstat.pt_enct_no Inner Join sysUser_Info On HolyName_ARCH.dbo.OEOrders.user_id = sysUser_Info.User_Id Where HolyName_ARCH.dbo.OEOrders.Universal_ServiceID = 'FHBV'" type="V_String" />
-                <Field name="mpi_id" scale="0" size="20" source="File: odb:Provider=SQLOLEDB;Password=__EncPwd1__;Persist Security Info=True;User ID=hmedread;Data Source=172.16.24.84;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Workstation ID=YAMADA-Z230;Use Encryption for Data=False;Tag with column collation when possible=False|||Select HolyName_ARCH.dbo.pt_addnl_curstat.hosp_enct_no, HolyName_ARCH.dbo.OEOrders.date_time, HolyName_ARCH.dbo.OEOrders.cancel_flag, HolyName_ARCH.dbo.OEOrders.user_id, sysUser_Info.User_LName, sysUser_Info.User_FName, HolyName_ARCH.dbo.OEOrders.mpi_id From HolyName_ARCH.dbo.OEOrders Inner Join HolyName_ARCH.dbo.pt_addnl_curstat On HolyName_ARCH.dbo.OEOrders.mpi_id = HolyName_ARCH.dbo.pt_addnl_curstat.mpi_id And HolyName_ARCH.dbo.OEOrders.enct_num = HolyName_ARCH.dbo.pt_addnl_curstat.pt_enct_no Inner Join sysUser_Info On HolyName_ARCH.dbo.OEOrders.user_id = sysUser_Info.User_Id Where HolyName_ARCH.dbo.OEOrders.Universal_ServiceID = 'FHBV'" type="FixedDecimal" />
-              </RecordInfo>
-            </MetaInfo>
-          </Properties>
-          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
-        </Node>
-        <Node ToolID="43">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="618" y="450" />
+            <Position x="630" y="510" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1465,9 +1428,9 @@ Table=Select HolyName_ARCH.dbo.pt_addnl_curstat.hosp_enct_no, HolyName_ARCH.dbo.
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
         </Node>
-        <Node ToolID="44">
+        <Node ToolID="43">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-            <Position x="1218" y="426" />
+            <Position x="1230" y="486" />
           </GuiSettings>
           <Properties>
             <Configuration joinByRecordPos="False">
@@ -1498,46 +1461,9 @@ Table=Select HolyName_ARCH.dbo.pt_addnl_curstat.hosp_enct_no, HolyName_ARCH.dbo.
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
         </Node>
-        <Node ToolID="45">
-          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-            <Position x="450" y="570" />
-          </GuiSettings>
-          <Properties>
-            <Configuration>
-              <Passwords>483DB0ED52F283CF104BF7CAE8D0E90F04ADE088A</Passwords>
-              <File RecordLimit="" FileFormat="18">odb:Provider=SQLOLEDB;Password=__EncPwd1__;Persist Security Info=True;User ID=hmedread;Data Source=172.16.24.84;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Workstation ID=YAMADA-Z230;Use Encryption for Data=False;Tag with column collation when possible=False|||Select pt_addnl_curstat.hosp_enct_no, OEOrders.user_id, OEOrders.date_time, OEOrders.cancel_flag, sysUser_Info.User_LName, sysUser_Info.User_FName, OEOrders.mpi_id From OEOrders Inner Join pt_addnl_curstat On OEOrders.mpi_id = pt_addnl_curstat.mpi_id And OEOrders.enct_num = pt_addnl_curstat.pt_enct_no Inner Join sysUser_Info On OEOrders.user_id = sysUser_Info.User_Id Where OEOrders.Universal_ServiceID = 'FHBV'</File>
-              <FormatSpecificOptions>
-                <PreSQLOnConfig>True</PreSQLOnConfig>
-                <NoProgress>True</NoProgress>
-                <ReadUncommitted>False</ReadUncommitted>
-                <TableStyle>Quoted</TableStyle>
-                <PreSQL />
-                <PostSQL />
-              </FormatSpecificOptions>
-            </Configuration>
-            <Annotation DisplayMode="0">
-              <Name />
-              <DefaultAnnotationText>Source=172.16.24.84
-Table=Select pt_addnl_curstat.hosp_enct_no, OEOrders.user_id, OEOrders.date_time, OEOrders.cancel_flag, sysUser_Info.User_LName, sysUser_Info.User_FName, OEOrders.mpi_id From OEOrders Inner Join pt_addnl_curstat On OEOrders.mpi_id = pt_addnl_curstat.mpi_id And OEOrders.enct_num = pt_addnl_curstat.pt_enct_no Inner Join sysUser_Info On OEOrders.user_id = sysUser_Info.User_Id Where OEOrders.Universal_ServiceID = 'FHBV'</DefaultAnnotationText>
-              <Left value="False" />
-            </Annotation>
-            <MetaInfo connection="Output">
-              <RecordInfo>
-                <Field name="hosp_enct_no" size="255" source="File: odb:Provider=SQLOLEDB;Password=__EncPwd1__;Persist Security Info=True;User ID=hmedread;Data Source=172.16.24.84;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Workstation ID=YAMADA-Z230;Use Encryption for Data=False;Tag with column collation when possible=False|||Select pt_addnl_curstat.hosp_enct_no, OEOrders.user_id, OEOrders.date_time, OEOrders.cancel_flag, sysUser_Info.User_LName, sysUser_Info.User_FName, OEOrders.mpi_id From OEOrders Inner Join pt_addnl_curstat On OEOrders.mpi_id = pt_addnl_curstat.mpi_id And OEOrders.enct_num = pt_addnl_curstat.pt_enct_no Inner Join sysUser_Info On OEOrders.user_id = sysUser_Info.User_Id Where OEOrders.Universal_ServiceID = 'FHBV'" type="V_String" />
-                <Field name="user_id" size="20" source="File: odb:Provider=SQLOLEDB;Password=__EncPwd1__;Persist Security Info=True;User ID=hmedread;Data Source=172.16.24.84;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Workstation ID=YAMADA-Z230;Use Encryption for Data=False;Tag with column collation when possible=False|||Select pt_addnl_curstat.hosp_enct_no, OEOrders.user_id, OEOrders.date_time, OEOrders.cancel_flag, sysUser_Info.User_LName, sysUser_Info.User_FName, OEOrders.mpi_id From OEOrders Inner Join pt_addnl_curstat On OEOrders.mpi_id = pt_addnl_curstat.mpi_id And OEOrders.enct_num = pt_addnl_curstat.pt_enct_no Inner Join sysUser_Info On OEOrders.user_id = sysUser_Info.User_Id Where OEOrders.Universal_ServiceID = 'FHBV'" type="V_String" />
-                <Field name="date_time" source="File: odb:Provider=SQLOLEDB;Password=__EncPwd1__;Persist Security Info=True;User ID=hmedread;Data Source=172.16.24.84;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Workstation ID=YAMADA-Z230;Use Encryption for Data=False;Tag with column collation when possible=False|||Select pt_addnl_curstat.hosp_enct_no, OEOrders.user_id, OEOrders.date_time, OEOrders.cancel_flag, sysUser_Info.User_LName, sysUser_Info.User_FName, OEOrders.mpi_id From OEOrders Inner Join pt_addnl_curstat On OEOrders.mpi_id = pt_addnl_curstat.mpi_id And OEOrders.enct_num = pt_addnl_curstat.pt_enct_no Inner Join sysUser_Info On OEOrders.user_id = sysUser_Info.User_Id Where OEOrders.Universal_ServiceID = 'FHBV'" type="DateTime" />
-                <Field name="cancel_flag" size="1" source="File: odb:Provider=SQLOLEDB;Password=__EncPwd1__;Persist Security Info=True;User ID=hmedread;Data Source=172.16.24.84;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Workstation ID=YAMADA-Z230;Use Encryption for Data=False;Tag with column collation when possible=False|||Select pt_addnl_curstat.hosp_enct_no, OEOrders.user_id, OEOrders.date_time, OEOrders.cancel_flag, sysUser_Info.User_LName, sysUser_Info.User_FName, OEOrders.mpi_id From OEOrders Inner Join pt_addnl_curstat On OEOrders.mpi_id = pt_addnl_curstat.mpi_id And OEOrders.enct_num = pt_addnl_curstat.pt_enct_no Inner Join sysUser_Info On OEOrders.user_id = sysUser_Info.User_Id Where OEOrders.Universal_ServiceID = 'FHBV'" type="String" />
-                <Field name="User_LName" size="20" source="File: odb:Provider=SQLOLEDB;Password=__EncPwd1__;Persist Security Info=True;User ID=hmedread;Data Source=172.16.24.84;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Workstation ID=YAMADA-Z230;Use Encryption for Data=False;Tag with column collation when possible=False|||Select pt_addnl_curstat.hosp_enct_no, OEOrders.user_id, OEOrders.date_time, OEOrders.cancel_flag, sysUser_Info.User_LName, sysUser_Info.User_FName, OEOrders.mpi_id From OEOrders Inner Join pt_addnl_curstat On OEOrders.mpi_id = pt_addnl_curstat.mpi_id And OEOrders.enct_num = pt_addnl_curstat.pt_enct_no Inner Join sysUser_Info On OEOrders.user_id = sysUser_Info.User_Id Where OEOrders.Universal_ServiceID = 'FHBV'" type="V_String" />
-                <Field name="User_FName" size="20" source="File: odb:Provider=SQLOLEDB;Password=__EncPwd1__;Persist Security Info=True;User ID=hmedread;Data Source=172.16.24.84;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Workstation ID=YAMADA-Z230;Use Encryption for Data=False;Tag with column collation when possible=False|||Select pt_addnl_curstat.hosp_enct_no, OEOrders.user_id, OEOrders.date_time, OEOrders.cancel_flag, sysUser_Info.User_LName, sysUser_Info.User_FName, OEOrders.mpi_id From OEOrders Inner Join pt_addnl_curstat On OEOrders.mpi_id = pt_addnl_curstat.mpi_id And OEOrders.enct_num = pt_addnl_curstat.pt_enct_no Inner Join sysUser_Info On OEOrders.user_id = sysUser_Info.User_Id Where OEOrders.Universal_ServiceID = 'FHBV'" type="V_String" />
-                <Field name="mpi_id" scale="0" size="20" source="File: odb:Provider=SQLOLEDB;Password=__EncPwd1__;Persist Security Info=True;User ID=hmedread;Data Source=172.16.24.84;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Workstation ID=YAMADA-Z230;Use Encryption for Data=False;Tag with column collation when possible=False|||Select pt_addnl_curstat.hosp_enct_no, OEOrders.user_id, OEOrders.date_time, OEOrders.cancel_flag, sysUser_Info.User_LName, sysUser_Info.User_FName, OEOrders.mpi_id From OEOrders Inner Join pt_addnl_curstat On OEOrders.mpi_id = pt_addnl_curstat.mpi_id And OEOrders.enct_num = pt_addnl_curstat.pt_enct_no Inner Join sysUser_Info On OEOrders.user_id = sysUser_Info.User_Id Where OEOrders.Universal_ServiceID = 'FHBV'" type="FixedDecimal" />
-              </RecordInfo>
-            </MetaInfo>
-          </Properties>
-          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
-        </Node>
-        <Node ToolID="46">
+        <Node ToolID="44">
           <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-            <Position x="1434" y="498" />
+            <Position x="1446" y="558" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1565,14 +1491,14 @@ Table=Select pt_addnl_curstat.hosp_enct_no, OEOrders.user_id, OEOrders.date_time
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
         </Node>
-        <Node ToolID="47">
+        <Node ToolID="45">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="1326" y="510" />
+            <Position x="1338" y="570" />
           </GuiSettings>
           <Properties>
             <Configuration>
-              <Expression>!IsEmpty([hosp_enct_no])</Expression>
-              <Mode>Simple</Mode>
+              <Expression>!IsEmpty([hosp_enct_no]) &amp;&amp; IsEmpty([cancel_flag])</Expression>
+              <Mode>Custom</Mode>
               <Simple>
                 <Operator>IsNotEmpty</Operator>
                 <Field>hosp_enct_no</Field>
@@ -1583,24 +1509,24 @@ Table=Select pt_addnl_curstat.hosp_enct_no, OEOrders.user_id, OEOrders.date_time
                   <PeriodType>
                   </PeriodType>
                   <PeriodCount>0</PeriodCount>
-                  <StartDate>2019-05-15 19:51:41</StartDate>
-                  <EndDate>2019-05-15 19:51:41</EndDate>
                   <Operand>
                   </Operand>
+                  <StartDate>2019-05-15 19:51:41</StartDate>
+                  <EndDate>2019-05-15 19:51:41</EndDate>
                 </Operands>
               </Simple>
             </Configuration>
             <Annotation DisplayMode="0">
               <Name />
-              <DefaultAnnotationText>!IsEmpty([hosp_enct_no])</DefaultAnnotationText>
+              <DefaultAnnotationText>!IsEmpty([hosp_enct_no]) &amp;&amp; IsEmpty([cancel_flag])</DefaultAnnotationText>
               <Left value="False" />
             </Annotation>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
         </Node>
-        <Node ToolID="48">
+        <Node ToolID="46">
           <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-            <Position x="1338" y="414" />
+            <Position x="1326" y="390" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1628,41 +1554,9 @@ Table=Select pt_addnl_curstat.hosp_enct_no, OEOrders.user_id, OEOrders.date_time
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
         </Node>
-        <Node ToolID="49">
-          <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="750" y="450" />
-          </GuiSettings>
-          <Properties>
-            <Configuration>
-              <Expression>[cancel_flag] != "C"</Expression>
-              <Mode>Simple</Mode>
-              <Simple>
-                <Operator>!=</Operator>
-                <Field>cancel_flag</Field>
-                <Operands>
-                  <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
-                  <DateType>fixed</DateType>
-                  <PeriodDate>2019-05-15 20:54:22</PeriodDate>
-                  <PeriodType>
-                  </PeriodType>
-                  <PeriodCount>0</PeriodCount>
-                  <Operand>C</Operand>
-                  <StartDate>2019-05-15 20:54:22</StartDate>
-                  <EndDate>2019-05-15 20:54:22</EndDate>
-                </Operands>
-              </Simple>
-            </Configuration>
-            <Annotation DisplayMode="0">
-              <Name />
-              <DefaultAnnotationText>[cancel_flag] != "C"</DefaultAnnotationText>
-              <Left value="False" />
-            </Annotation>
-          </Properties>
-          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
-        </Node>
-        <Node ToolID="50">
+        <Node ToolID="47">
           <GuiSettings>
-            <Position x="1494" y="414" />
+            <Position x="1506" y="474" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1676,9 +1570,9 @@ Table=Select pt_addnl_curstat.hosp_enct_no, OEOrders.user_id, OEOrders.date_time
           </Properties>
           <EngineSettings Macro="CReW_OnlyUnique.yxmc" />
         </Node>
-        <Node ToolID="51">
+        <Node ToolID="48">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="1590" y="426" />
+            <Position x="1602" y="486" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1708,9 +1602,9 @@ Table=Select pt_addnl_curstat.hosp_enct_no, OEOrders.user_id, OEOrders.date_time
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
         </Node>
-        <Node ToolID="52">
+        <Node ToolID="49">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="1686" y="414" />
+            <Position x="1698" y="474" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1727,9 +1621,9 @@ Table=Select pt_addnl_curstat.hosp_enct_no, OEOrders.user_id, OEOrders.date_time
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
         </Node>
-        <Node ToolID="53">
+        <Node ToolID="50">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="1794" y="414" />
+            <Position x="1806" y="474" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1759,9 +1653,9 @@ Table=Select pt_addnl_curstat.hosp_enct_no, OEOrders.user_id, OEOrders.date_time
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
         </Node>
-        <Node ToolID="54">
+        <Node ToolID="51">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-            <Position x="1890" y="414" />
+            <Position x="1902" y="474" />
           </GuiSettings>
           <Properties>
             <Configuration joinByRecordPos="False">
@@ -1820,9 +1714,9 @@ Table=Select pt_addnl_curstat.hosp_enct_no, OEOrders.user_id, OEOrders.date_time
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
         </Node>
-        <Node ToolID="55">
+        <Node ToolID="52">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-            <Position x="1986" y="402" />
+            <Position x="1998" y="462" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1840,9 +1734,9 @@ OrderDateTimeDiff - Ascending</DefaultAnnotationText>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
         </Node>
-        <Node ToolID="56">
+        <Node ToolID="53">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Unique.Unique">
-            <Position x="2094" y="402" />
+            <Position x="2106" y="462" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1858,9 +1752,9 @@ OrderDateTimeDiff - Ascending</DefaultAnnotationText>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnique" />
         </Node>
-        <Node ToolID="57">
+        <Node ToolID="54">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-            <Position x="2190" y="390" />
+            <Position x="2202" y="450" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1877,9 +1771,9 @@ OrderDateTimeDiff - Ascending</DefaultAnnotationText>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
         </Node>
-        <Node ToolID="58">
+        <Node ToolID="55">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="845.9999" y="306" />
+            <Position x="857.9999" y="366" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1901,9 +1795,9 @@ ORORTM = P...</DefaultAnnotationText>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
         </Node>
-        <Node ToolID="59">
+        <Node ToolID="56">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="546" y="306" />
+            <Position x="558" y="366" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1925,9 +1819,9 @@ ORORTM = P...</DefaultAnnotationText>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
         </Node>
-        <Node ToolID="60">
+        <Node ToolID="57">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="2430" y="390" />
+            <Position x="2442" y="450" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1967,9 +1861,9 @@ ORORTM = P...</DefaultAnnotationText>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
         </Node>
-        <Node ToolID="61">
+        <Node ToolID="58">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="2286" y="390" />
+            <Position x="2298" y="450" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -1986,9 +1880,9 @@ ORORTM = P...</DefaultAnnotationText>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
         </Node>
-        <Node ToolID="62">
+        <Node ToolID="59">
           <GuiSettings>
-            <Position x="2526" y="390" />
+            <Position x="2538" y="450" />
           </GuiSettings>
           <Properties>
             <Configuration />
@@ -2000,9 +1894,9 @@ ORORTM = P...</DefaultAnnotationText>
           </Properties>
           <EngineSettings Macro="CReW_LabelledBlockUntilDone.yxmc" />
         </Node>
-        <Node ToolID="63">
+        <Node ToolID="60">
           <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-            <Position x="522" y="450" />
+            <Position x="510" y="510" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2037,42 +1931,9 @@ Table=Select pt_addnl_curstat_ALL.hosp_enct_no, sysUser_Info.User_Id, sysUser_In
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
         </Node>
-        <Node ToolID="64">
-          <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-            <Position x="1230" y="570.0001" />
-          </GuiSettings>
-          <Properties>
-            <Configuration joinByRecordPos="False">
-              <JoinInfo connection="Left">
-                <Field field="AccountNumber" />
-              </JoinInfo>
-              <JoinInfo connection="Right">
-                <Field field="hosp_enct_no" />
-              </JoinInfo>
-              <SelectConfiguration>
-                <Configuration outputConnection="Join">
-                  <OrderChanged value="False" />
-                  <CommaDecimal value="False" />
-                  <SelectFields>
-                    <SelectField field="Right_hosp_enct_no" selected="False" input="Right_" />
-                    <SelectField field="Right_User_LName" selected="False" input="Right_" />
-                    <SelectField field="Right_User_FName" selected="False" input="Right_" />
-                    <SelectField field="*Unknown" selected="True" />
-                  </SelectFields>
-                </Configuration>
-              </SelectConfiguration>
-            </Configuration>
-            <Annotation DisplayMode="0">
-              <Name />
-              <DefaultAnnotationText />
-              <Left value="False" />
-            </Annotation>
-          </Properties>
-          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
-        </Node>
-        <Node ToolID="65">
+        <Node ToolID="61">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-            <Position x="1422" y="414" />
+            <Position x="1434" y="474" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2089,41 +1950,11 @@ Table=Select pt_addnl_curstat_ALL.hosp_enct_no, sysUser_Info.User_Id, sysUser_In
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
         </Node>
-        <Node ToolID="66">
-          <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-            <Position x="1446" y="582" />
-          </GuiSettings>
-          <Properties>
-            <Configuration>
-              <TempFile>
-              </TempFile>
-              <TempFileDataProfiling />
-              <Layout>
-                <ViewMode>Single</ViewMode>
-                <ViewSize value="100" />
-                <View1>
-                  <DefaultTab>Profile</DefaultTab>
-                  <Hints>
-                    <Table />
-                  </Hints>
-                </View1>
-                <View2 />
-              </Layout>
-            </Configuration>
-            <Annotation DisplayMode="0">
-              <Name />
-              <AnnotationText>Panel order canceled but still resulted</AnnotationText>
-              <DefaultAnnotationText />
-              <Left value="False" />
-            </Annotation>
-          </Properties>
-          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
-        </Node>
       </ChildNodes>
     </Node>
-    <Node ToolID="88">
+    <Node ToolID="83">
       <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-        <Position x="198" y="66" width="134.0616" height="24" />
+        <Position x="270" y="138" width="134.0616" height="24" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -2139,9 +1970,9 @@ Table=Select pt_addnl_curstat_ALL.hosp_enct_no, sysUser_Info.User_Id, sysUser_In
         </Annotation>
       </Properties>
       <ChildNodes>
-        <Node ToolID="68">
+        <Node ToolID="63">
           <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-            <Position x="222" y="126" />
+            <Position x="294" y="198" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2182,9 +2013,9 @@ Table=Select ARSPLIT.ARPORL.ORACT#, ARSPLIT.ARPORL.OROR#, ARSPLIT.ARPORL.ORORMO,
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
         </Node>
-        <Node ToolID="69">
+        <Node ToolID="64">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="342" y="126" />
+            <Position x="414" y="198" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2214,9 +2045,9 @@ Table=Select ARSPLIT.ARPORL.ORACT#, ARSPLIT.ARPORL.OROR#, ARSPLIT.ARPORL.ORORMO,
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
         </Node>
-        <Node ToolID="70">
+        <Node ToolID="65">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="534" y="162" />
+            <Position x="606" y="234" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2246,9 +2077,9 @@ Table=Select ARSPLIT.ARPORL.ORACT#, ARSPLIT.ARPORL.OROR#, ARSPLIT.ARPORL.ORORMO,
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
         </Node>
-        <Node ToolID="71">
+        <Node ToolID="66">
           <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-            <Position x="534" y="234" />
+            <Position x="606" y="306" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2276,9 +2107,9 @@ Table=Select ARSPLIT.ARPORL.ORACT#, ARSPLIT.ARPORL.OROR#, ARSPLIT.ARPORL.ORORMO,
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
         </Node>
-        <Node ToolID="72">
+        <Node ToolID="67">
           <GuiSettings>
-            <Position x="1110" y="138" />
+            <Position x="1182" y="210" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2292,9 +2123,9 @@ Table=Select ARSPLIT.ARPORL.ORACT#, ARSPLIT.ARPORL.OROR#, ARSPLIT.ARPORL.ORORMO,
           </Properties>
           <EngineSettings Macro="CReW_OnlyUnique.yxmc" />
         </Node>
-        <Node ToolID="73">
+        <Node ToolID="68">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-            <Position x="1206" y="150" />
+            <Position x="1278" y="222" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2312,9 +2143,9 @@ GileadRNAValue - Ascending</DefaultAnnotationText>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
         </Node>
-        <Node ToolID="74">
+        <Node ToolID="69">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="726" y="138" />
+            <Position x="798" y="210" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2331,9 +2162,9 @@ GileadRNAValue - Ascending</DefaultAnnotationText>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
         </Node>
-        <Node ToolID="75">
+        <Node ToolID="70">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-            <Position x="1398" y="114" />
+            <Position x="1470" y="186" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2350,9 +2181,9 @@ GileadRNAValue - Ascending</DefaultAnnotationText>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
         </Node>
-        <Node ToolID="76">
+        <Node ToolID="71">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Unique.Unique">
-            <Position x="1302" y="150" />
+            <Position x="1374" y="222" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2368,9 +2199,9 @@ GileadRNAValue - Ascending</DefaultAnnotationText>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnique" />
         </Node>
-        <Node ToolID="77">
+        <Node ToolID="72">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="918" y="138" />
+            <Position x="990" y="210" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2397,9 +2228,9 @@ GileadRNAValue - Ascending</DefaultAnnotationText>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
         </Node>
-        <Node ToolID="78">
+        <Node ToolID="73">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="1014" y="138" />
+            <Position x="1086" y="210" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2421,9 +2252,9 @@ ORORTM = P...</DefaultAnnotationText>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
         </Node>
-        <Node ToolID="79">
+        <Node ToolID="74">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="1494" y="114" />
+            <Position x="1566" y="186" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2456,9 +2287,9 @@ ORORTM = P...</DefaultAnnotationText>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
         </Node>
-        <Node ToolID="80">
+        <Node ToolID="75">
           <GuiSettings>
-            <Position x="1590" y="114" />
+            <Position x="1662" y="186" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2482,9 +2313,9 @@ ORORTM = P...</DefaultAnnotationText>
           </Properties>
           <EngineSettings Macro="Cleanse.yxmc" />
         </Node>
-        <Node ToolID="81">
+        <Node ToolID="76">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="1686" y="114" />
+            <Position x="1758" y="186" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2501,9 +2332,9 @@ ORORTM = P...</DefaultAnnotationText>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
         </Node>
-        <Node ToolID="82">
+        <Node ToolID="77">
           <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-            <Position x="1806" y="114" />
+            <Position x="1878" y="186" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2530,9 +2361,9 @@ Table=DataSci.ed.HCVRNA</DefaultAnnotationText>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
         </Node>
-        <Node ToolID="83">
+        <Node ToolID="78">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-            <Position x="666" y="282" />
+            <Position x="738" y="354" />
           </GuiSettings>
           <Properties>
             <Configuration joinByRecordPos="False">
@@ -2567,9 +2398,9 @@ Table=DataSci.ed.HCVRNA</DefaultAnnotationText>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
         </Node>
-        <Node ToolID="84">
+        <Node ToolID="79">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="438" y="114" />
+            <Position x="510" y="186" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2588,9 +2419,9 @@ Table=DataSci.ed.HCVRNA</DefaultAnnotationText>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
         </Node>
-        <Node ToolID="85">
+        <Node ToolID="80">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="774" y="282" />
+            <Position x="846" y="354" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2607,9 +2438,9 @@ Table=DataSci.ed.HCVRNA</DefaultAnnotationText>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
         </Node>
-        <Node ToolID="86">
+        <Node ToolID="81">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-            <Position x="822" y="138" />
+            <Position x="894" y="210" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2626,9 +2457,9 @@ Table=DataSci.ed.HCVRNA</DefaultAnnotationText>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
         </Node>
-        <Node ToolID="87">
+        <Node ToolID="82">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-            <Position x="630" y="138" />
+            <Position x="702" y="210" />
           </GuiSettings>
           <Properties>
             <Configuration joinByRecordPos="False">
@@ -2665,9 +2496,9 @@ Table=DataSci.ed.HCVRNA</DefaultAnnotationText>
         </Node>
       </ChildNodes>
     </Node>
-    <Node ToolID="126">
+    <Node ToolID="116">
       <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-        <Position x="30" y="30" width="124.4548" height="24" />
+        <Position x="40.99994" y="28.99998" width="124.4548" height="24" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -2683,9 +2514,9 @@ Table=DataSci.ed.HCVRNA</DefaultAnnotationText>
         </Annotation>
       </Properties>
       <ChildNodes>
-        <Node ToolID="89">
+        <Node ToolID="84">
           <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-            <Position x="89.99999" y="174" />
+            <Position x="66" y="174.0001" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2729,9 +2560,9 @@ Table=Select ARSPLIT.ARPORL.ORHSP#, ARSPLIT.ARPORL.ORSSN, ARSPLIT.ARPORL.ORSSNF,
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
         </Node>
-        <Node ToolID="90">
+        <Node ToolID="85">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="210" y="174" />
+            <Position x="186" y="173.9999" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2761,9 +2592,9 @@ Table=Select ARSPLIT.ARPORL.ORHSP#, ARSPLIT.ARPORL.ORSSN, ARSPLIT.ARPORL.ORSSNF,
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
         </Node>
-        <Node ToolID="91">
+        <Node ToolID="86">
           <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-            <Position x="90" y="90" />
+            <Position x="65.99992" y="90.00005" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2804,9 +2635,9 @@ Table=Select ARSPLIT.ARPORL.ORHSP#, ARSPLIT.ARPORL.ORSSN, ARSPLIT.ARPORL.ORSSNF,
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
         </Node>
-        <Node ToolID="92">
+        <Node ToolID="87">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-            <Position x="438" y="102" />
+            <Position x="413.9999" y="102" />
           </GuiSettings>
           <Properties>
             <Configuration joinByRecordPos="False">
@@ -2846,9 +2677,9 @@ Table=Select ARSPLIT.ARPORL.ORHSP#, ARSPLIT.ARPORL.ORSSN, ARSPLIT.ARPORL.ORSSNF,
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
         </Node>
-        <Node ToolID="93">
+        <Node ToolID="88">
           <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-            <Position x="642" y="78" />
+            <Position x="617.9999" y="78.00008" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2876,9 +2707,9 @@ Table=Select ARSPLIT.ARPORL.ORHSP#, ARSPLIT.ARPORL.ORSSN, ARSPLIT.ARPORL.ORSSNF,
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
         </Node>
-        <Node ToolID="94">
+        <Node ToolID="89">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-            <Position x="306" y="162" />
+            <Position x="282" y="162" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2900,9 +2731,9 @@ ORORY4 - Ascending</DefaultAnnotationText>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
         </Node>
-        <Node ToolID="95">
+        <Node ToolID="90">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Unique.Unique">
-            <Position x="402" y="162" />
+            <Position x="378" y="162" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2919,9 +2750,9 @@ ORORY4 - Ascending</DefaultAnnotationText>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnique" />
         </Node>
-        <Node ToolID="96">
+        <Node ToolID="91">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="534" y="90" />
+            <Position x="509.9999" y="90.00008" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -2951,46 +2782,9 @@ ORORY4 - Ascending</DefaultAnnotationText>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
         </Node>
-        <Node ToolID="97">
-          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-            <Position x="54.00011" y="342" />
-          </GuiSettings>
-          <Properties>
-            <Configuration>
-              <Passwords>483DB0ED52F283CF104BF7CAE8D0E90F04ADE088A</Passwords>
-              <File RecordLimit="" FileFormat="18">odb:Provider=SQLOLEDB;Password=__EncPwd1__;Persist Security Info=True;User ID=hmedread;Data Source=172.16.24.84;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Workstation ID=YAMADA-Z230;Use Encryption for Data=False;Tag with column collation when possible=False|||Select HolyName_ARCH.dbo.pt_addnl_curstat.hosp_enct_no, HolyName_ARCH.dbo.OEOrders.date_time, HolyName_ARCH.dbo.OEOrders.cancel_flag, HolyName_ARCH.dbo.OEOrders.user_id, sysUser_Info.User_LName, sysUser_Info.User_FName, HolyName_ARCH.dbo.OEOrders.mpi_id From HolyName_ARCH.dbo.OEOrders Inner Join HolyName_ARCH.dbo.pt_addnl_curstat On HolyName_ARCH.dbo.OEOrders.mpi_id = HolyName_ARCH.dbo.pt_addnl_curstat.mpi_id And HolyName_ARCH.dbo.OEOrders.enct_num = HolyName_ARCH.dbo.pt_addnl_curstat.pt_enct_no Inner Join sysUser_Info On HolyName_ARCH.dbo.OEOrders.user_id = sysUser_Info.User_Id Where HolyName_ARCH.dbo.OEOrders.Universal_ServiceID = 'FHCV'</File>
-              <FormatSpecificOptions>
-                <PreSQLOnConfig>True</PreSQLOnConfig>
-                <NoProgress>True</NoProgress>
-                <ReadUncommitted>False</ReadUncommitted>
-                <TableStyle>Quoted</TableStyle>
-                <PreSQL />
-                <PostSQL />
-              </FormatSpecificOptions>
-            </Configuration>
-            <Annotation DisplayMode="0">
-              <Name />
-              <DefaultAnnotationText>Source=172.16.24.84
-Table=Select HolyName_ARCH.dbo.pt_addnl_curstat.hosp_enct_no, HolyName_ARCH.dbo.OEOrders.date_time, HolyName_ARCH.dbo.OEOrders.cancel_flag, HolyName_ARCH.dbo.OEOrders.user_id, sysUser_Info.User_LName, sysUser_Info.User_FName, HolyName_ARCH.dbo.OEOrders.mpi_id From HolyName_ARCH.dbo.OEOrders Inner Join HolyName_ARCH.dbo.pt_addnl_curstat On HolyName_ARCH.dbo.OEOrders.mpi_id = HolyName_ARCH.dbo.pt_addnl_curstat.mpi_id And HolyName_ARCH.dbo.OEOrders.enct_num = HolyName_ARCH.dbo.pt_addnl_curstat.pt_enct_no Inner Join sysUser_Info On HolyName_ARCH.dbo.OEOrders.user_id = sysUser_Info.User_Id Where HolyName_ARCH.dbo.OEOrders.Universal_ServiceID = 'FHCV'</DefaultAnnotationText>
-              <Left value="False" />
-            </Annotation>
-            <MetaInfo connection="Output">
-              <RecordInfo>
-                <Field name="hosp_enct_no" size="255" source="File: odb:Provider=SQLOLEDB;Password=__EncPwd1__;Persist Security Info=True;User ID=hmedread;Data Source=172.16.24.84;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Workstation ID=YAMADA-Z230;Use Encryption for Data=False;Tag with column collation when possible=False|||Select HolyName_ARCH.dbo.pt_addnl_curstat.hosp_enct_no, HolyName_ARCH.dbo.OEOrders.date_time, HolyName_ARCH.dbo.OEOrders.cancel_flag, HolyName_ARCH.dbo.OEOrders.user_id, sysUser_Info.User_LName, sysUser_Info.User_FName, HolyName_ARCH.dbo.OEOrders.mpi_id From HolyName_ARCH.dbo.OEOrders Inner Join HolyName_ARCH.dbo.pt_addnl_curstat On HolyName_ARCH.dbo.OEOrders.mpi_id = HolyName_ARCH.dbo.pt_addnl_curstat.mpi_id And HolyName_ARCH.dbo.OEOrders.enct_num = HolyName_ARCH.dbo.pt_addnl_curstat.pt_enct_no Inner Join sysUser_Info On HolyName_ARCH.dbo.OEOrders.user_id = sysUser_Info.User_Id Where HolyName_ARCH.dbo.OEOrders.Universal_ServiceID = 'FHCV'" type="V_String" />
-                <Field name="date_time" source="File: odb:Provider=SQLOLEDB;Password=__EncPwd1__;Persist Security Info=True;User ID=hmedread;Data Source=172.16.24.84;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Workstation ID=YAMADA-Z230;Use Encryption for Data=False;Tag with column collation when possible=False|||Select HolyName_ARCH.dbo.pt_addnl_curstat.hosp_enct_no, HolyName_ARCH.dbo.OEOrders.date_time, HolyName_ARCH.dbo.OEOrders.cancel_flag, HolyName_ARCH.dbo.OEOrders.user_id, sysUser_Info.User_LName, sysUser_Info.User_FName, HolyName_ARCH.dbo.OEOrders.mpi_id From HolyName_ARCH.dbo.OEOrders Inner Join HolyName_ARCH.dbo.pt_addnl_curstat On HolyName_ARCH.dbo.OEOrders.mpi_id = HolyName_ARCH.dbo.pt_addnl_curstat.mpi_id And HolyName_ARCH.dbo.OEOrders.enct_num = HolyName_ARCH.dbo.pt_addnl_curstat.pt_enct_no Inner Join sysUser_Info On HolyName_ARCH.dbo.OEOrders.user_id = sysUser_Info.User_Id Where HolyName_ARCH.dbo.OEOrders.Universal_ServiceID = 'FHCV'" type="DateTime" />
-                <Field name="cancel_flag" size="1" source="File: odb:Provider=SQLOLEDB;Password=__EncPwd1__;Persist Security Info=True;User ID=hmedread;Data Source=172.16.24.84;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Workstation ID=YAMADA-Z230;Use Encryption for Data=False;Tag with column collation when possible=False|||Select HolyName_ARCH.dbo.pt_addnl_curstat.hosp_enct_no, HolyName_ARCH.dbo.OEOrders.date_time, HolyName_ARCH.dbo.OEOrders.cancel_flag, HolyName_ARCH.dbo.OEOrders.user_id, sysUser_Info.User_LName, sysUser_Info.User_FName, HolyName_ARCH.dbo.OEOrders.mpi_id From HolyName_ARCH.dbo.OEOrders Inner Join HolyName_ARCH.dbo.pt_addnl_curstat On HolyName_ARCH.dbo.OEOrders.mpi_id = HolyName_ARCH.dbo.pt_addnl_curstat.mpi_id And HolyName_ARCH.dbo.OEOrders.enct_num = HolyName_ARCH.dbo.pt_addnl_curstat.pt_enct_no Inner Join sysUser_Info On HolyName_ARCH.dbo.OEOrders.user_id = sysUser_Info.User_Id Where HolyName_ARCH.dbo.OEOrders.Universal_ServiceID = 'FHCV'" type="String" />
-                <Field name="user_id" size="20" source="File: odb:Provider=SQLOLEDB;Password=__EncPwd1__;Persist Security Info=True;User ID=hmedread;Data Source=172.16.24.84;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Workstation ID=YAMADA-Z230;Use Encryption for Data=False;Tag with column collation when possible=False|||Select HolyName_ARCH.dbo.pt_addnl_curstat.hosp_enct_no, HolyName_ARCH.dbo.OEOrders.date_time, HolyName_ARCH.dbo.OEOrders.cancel_flag, HolyName_ARCH.dbo.OEOrders.user_id, sysUser_Info.User_LName, sysUser_Info.User_FName, HolyName_ARCH.dbo.OEOrders.mpi_id From HolyName_ARCH.dbo.OEOrders Inner Join HolyName_ARCH.dbo.pt_addnl_curstat On HolyName_ARCH.dbo.OEOrders.mpi_id = HolyName_ARCH.dbo.pt_addnl_curstat.mpi_id And HolyName_ARCH.dbo.OEOrders.enct_num = HolyName_ARCH.dbo.pt_addnl_curstat.pt_enct_no Inner Join sysUser_Info On HolyName_ARCH.dbo.OEOrders.user_id = sysUser_Info.User_Id Where HolyName_ARCH.dbo.OEOrders.Universal_ServiceID = 'FHCV'" type="V_String" />
-                <Field name="User_LName" size="20" source="File: odb:Provider=SQLOLEDB;Password=__EncPwd1__;Persist Security Info=True;User ID=hmedread;Data Source=172.16.24.84;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Workstation ID=YAMADA-Z230;Use Encryption for Data=False;Tag with column collation when possible=False|||Select HolyName_ARCH.dbo.pt_addnl_curstat.hosp_enct_no, HolyName_ARCH.dbo.OEOrders.date_time, HolyName_ARCH.dbo.OEOrders.cancel_flag, HolyName_ARCH.dbo.OEOrders.user_id, sysUser_Info.User_LName, sysUser_Info.User_FName, HolyName_ARCH.dbo.OEOrders.mpi_id From HolyName_ARCH.dbo.OEOrders Inner Join HolyName_ARCH.dbo.pt_addnl_curstat On HolyName_ARCH.dbo.OEOrders.mpi_id = HolyName_ARCH.dbo.pt_addnl_curstat.mpi_id And HolyName_ARCH.dbo.OEOrders.enct_num = HolyName_ARCH.dbo.pt_addnl_curstat.pt_enct_no Inner Join sysUser_Info On HolyName_ARCH.dbo.OEOrders.user_id = sysUser_Info.User_Id Where HolyName_ARCH.dbo.OEOrders.Universal_ServiceID = 'FHCV'" type="V_String" />
-                <Field name="User_FName" size="20" source="File: odb:Provider=SQLOLEDB;Password=__EncPwd1__;Persist Security Info=True;User ID=hmedread;Data Source=172.16.24.84;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Workstation ID=YAMADA-Z230;Use Encryption for Data=False;Tag with column collation when possible=False|||Select HolyName_ARCH.dbo.pt_addnl_curstat.hosp_enct_no, HolyName_ARCH.dbo.OEOrders.date_time, HolyName_ARCH.dbo.OEOrders.cancel_flag, HolyName_ARCH.dbo.OEOrders.user_id, sysUser_Info.User_LName, sysUser_Info.User_FName, HolyName_ARCH.dbo.OEOrders.mpi_id From HolyName_ARCH.dbo.OEOrders Inner Join HolyName_ARCH.dbo.pt_addnl_curstat On HolyName_ARCH.dbo.OEOrders.mpi_id = HolyName_ARCH.dbo.pt_addnl_curstat.mpi_id And HolyName_ARCH.dbo.OEOrders.enct_num = HolyName_ARCH.dbo.pt_addnl_curstat.pt_enct_no Inner Join sysUser_Info On HolyName_ARCH.dbo.OEOrders.user_id = sysUser_Info.User_Id Where HolyName_ARCH.dbo.OEOrders.Universal_ServiceID = 'FHCV'" type="V_String" />
-                <Field name="mpi_id" scale="0" size="20" source="File: odb:Provider=SQLOLEDB;Password=__EncPwd1__;Persist Security Info=True;User ID=hmedread;Data Source=172.16.24.84;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Workstation ID=YAMADA-Z230;Use Encryption for Data=False;Tag with column collation when possible=False|||Select HolyName_ARCH.dbo.pt_addnl_curstat.hosp_enct_no, HolyName_ARCH.dbo.OEOrders.date_time, HolyName_ARCH.dbo.OEOrders.cancel_flag, HolyName_ARCH.dbo.OEOrders.user_id, sysUser_Info.User_LName, sysUser_Info.User_FName, HolyName_ARCH.dbo.OEOrders.mpi_id From HolyName_ARCH.dbo.OEOrders Inner Join HolyName_ARCH.dbo.pt_addnl_curstat On HolyName_ARCH.dbo.OEOrders.mpi_id = HolyName_ARCH.dbo.pt_addnl_curstat.mpi_id And HolyName_ARCH.dbo.OEOrders.enct_num = HolyName_ARCH.dbo.pt_addnl_curstat.pt_enct_no Inner Join sysUser_Info On HolyName_ARCH.dbo.OEOrders.user_id = sysUser_Info.User_Id Where HolyName_ARCH.dbo.OEOrders.Universal_ServiceID = 'FHCV'" type="FixedDecimal" />
-              </RecordInfo>
-            </MetaInfo>
-          </Properties>
-          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
-        </Node>
-        <Node ToolID="98">
+        <Node ToolID="92">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="330" y="342" />
+            <Position x="306" y="341.9999" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3007,9 +2801,9 @@ Table=Select HolyName_ARCH.dbo.pt_addnl_curstat.hosp_enct_no, HolyName_ARCH.dbo.
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
         </Node>
-        <Node ToolID="99">
+        <Node ToolID="93">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="510" y="150" />
+            <Position x="486" y="150" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3026,9 +2820,9 @@ Table=Select HolyName_ARCH.dbo.pt_addnl_curstat.hosp_enct_no, HolyName_ARCH.dbo.
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
         </Node>
-        <Node ToolID="100">
+        <Node ToolID="94">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-            <Position x="786" y="318" />
+            <Position x="762" y="318" />
           </GuiSettings>
           <Properties>
             <Configuration joinByRecordPos="False">
@@ -3062,9 +2856,9 @@ Table=Select HolyName_ARCH.dbo.pt_addnl_curstat.hosp_enct_no, HolyName_ARCH.dbo.
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
         </Node>
-        <Node ToolID="101">
+        <Node ToolID="95">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="594" y="150" />
+            <Position x="570.0001" y="149.9999" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3093,65 +2887,9 @@ Table=Select HolyName_ARCH.dbo.pt_addnl_curstat.hosp_enct_no, HolyName_ARCH.dbo.
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
         </Node>
-        <Node ToolID="102">
-          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-            <Position x="162" y="462" />
-          </GuiSettings>
-          <Properties>
-            <Configuration>
-              <Passwords>483DB0ED52F283CF104BF7CAE8D0E90F04ADE088A</Passwords>
-              <File RecordLimit="" FileFormat="18">odb:Provider=SQLOLEDB;Password=__EncPwd1__;Persist Security Info=True;User ID=hmedread;Data Source=172.16.24.84;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Workstation ID=YAMADA-Z230;Use Encryption for Data=False;Tag with column collation when possible=False|||Select pt_addnl_curstat.hosp_enct_no, OEOrders.user_id, OEOrders.date_time, OEOrders.cancel_flag, sysUser_Info.User_LName, sysUser_Info.User_FName, OEOrders.mpi_id From OEOrders Inner Join pt_addnl_curstat On OEOrders.mpi_id = pt_addnl_curstat.mpi_id And OEOrders.enct_num = pt_addnl_curstat.pt_enct_no Inner Join sysUser_Info On OEOrders.user_id = sysUser_Info.User_Id Where OEOrders.Universal_ServiceID = 'FHCV'</File>
-              <FormatSpecificOptions>
-                <PreSQLOnConfig>True</PreSQLOnConfig>
-                <NoProgress>True</NoProgress>
-                <ReadUncommitted>False</ReadUncommitted>
-                <TableStyle>Quoted</TableStyle>
-                <PreSQL />
-                <PostSQL />
-              </FormatSpecificOptions>
-            </Configuration>
-            <Annotation DisplayMode="0">
-              <Name />
-              <DefaultAnnotationText>Source=172.16.24.84
-Table=Select pt_addnl_curstat.hosp_enct_no, OEOrders.user_id, OEOrders.date_time, OEOrders.cancel_flag, sysUser_Info.User_LName, sysUser_Info.User_FName, OEOrders.mpi_id From OEOrders Inner Join pt_addnl_curstat On OEOrders.mpi_id = pt_addnl_curstat.mpi_id And OEOrders.enct_num = pt_addnl_curstat.pt_enct_no Inner Join sysUser_Info On OEOrders.user_id = sysUser_Info.User_Id Where OEOrders.Universal_ServiceID = 'FHCV'</DefaultAnnotationText>
-              <Left value="False" />
-            </Annotation>
-            <MetaInfo connection="Output">
-              <RecordInfo>
-                <Field name="hosp_enct_no" size="255" source="File: odb:Provider=SQLOLEDB;Password=__EncPwd1__;Persist Security Info=True;User ID=hmedread;Data Source=172.16.24.84;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Workstation ID=YAMADA-Z230;Use Encryption for Data=False;Tag with column collation when possible=False|||Select pt_addnl_curstat.hosp_enct_no, OEOrders.user_id, OEOrders.date_time, OEOrders.cancel_flag, sysUser_Info.User_LName, sysUser_Info.User_FName, OEOrders.mpi_id From OEOrders Inner Join pt_addnl_curstat On OEOrders.mpi_id = pt_addnl_curstat.mpi_id And OEOrders.enct_num = pt_addnl_curstat.pt_enct_no Inner Join sysUser_Info On OEOrders.user_id = sysUser_Info.User_Id Where OEOrders.Universal_ServiceID = 'FHCV'" type="V_String" />
-                <Field name="user_id" size="20" source="File: odb:Provider=SQLOLEDB;Password=__EncPwd1__;Persist Security Info=True;User ID=hmedread;Data Source=172.16.24.84;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Workstation ID=YAMADA-Z230;Use Encryption for Data=False;Tag with column collation when possible=False|||Select pt_addnl_curstat.hosp_enct_no, OEOrders.user_id, OEOrders.date_time, OEOrders.cancel_flag, sysUser_Info.User_LName, sysUser_Info.User_FName, OEOrders.mpi_id From OEOrders Inner Join pt_addnl_curstat On OEOrders.mpi_id = pt_addnl_curstat.mpi_id And OEOrders.enct_num = pt_addnl_curstat.pt_enct_no Inner Join sysUser_Info On OEOrders.user_id = sysUser_Info.User_Id Where OEOrders.Universal_ServiceID = 'FHCV'" type="V_String" />
-                <Field name="date_time" source="File: odb:Provider=SQLOLEDB;Password=__EncPwd1__;Persist Security Info=True;User ID=hmedread;Data Source=172.16.24.84;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Workstation ID=YAMADA-Z230;Use Encryption for Data=False;Tag with column collation when possible=False|||Select pt_addnl_curstat.hosp_enct_no, OEOrders.user_id, OEOrders.date_time, OEOrders.cancel_flag, sysUser_Info.User_LName, sysUser_Info.User_FName, OEOrders.mpi_id From OEOrders Inner Join pt_addnl_curstat On OEOrders.mpi_id = pt_addnl_curstat.mpi_id And OEOrders.enct_num = pt_addnl_curstat.pt_enct_no Inner Join sysUser_Info On OEOrders.user_id = sysUser_Info.User_Id Where OEOrders.Universal_ServiceID = 'FHCV'" type="DateTime" />
-                <Field name="cancel_flag" size="1" source="File: odb:Provider=SQLOLEDB;Password=__EncPwd1__;Persist Security Info=True;User ID=hmedread;Data Source=172.16.24.84;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Workstation ID=YAMADA-Z230;Use Encryption for Data=False;Tag with column collation when possible=False|||Select pt_addnl_curstat.hosp_enct_no, OEOrders.user_id, OEOrders.date_time, OEOrders.cancel_flag, sysUser_Info.User_LName, sysUser_Info.User_FName, OEOrders.mpi_id From OEOrders Inner Join pt_addnl_curstat On OEOrders.mpi_id = pt_addnl_curstat.mpi_id And OEOrders.enct_num = pt_addnl_curstat.pt_enct_no Inner Join sysUser_Info On OEOrders.user_id = sysUser_Info.User_Id Where OEOrders.Universal_ServiceID = 'FHCV'" type="String" />
-                <Field name="User_LName" size="20" source="File: odb:Provider=SQLOLEDB;Password=__EncPwd1__;Persist Security Info=True;User ID=hmedread;Data Source=172.16.24.84;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Workstation ID=YAMADA-Z230;Use Encryption for Data=False;Tag with column collation when possible=False|||Select pt_addnl_curstat.hosp_enct_no, OEOrders.user_id, OEOrders.date_time, OEOrders.cancel_flag, sysUser_Info.User_LName, sysUser_Info.User_FName, OEOrders.mpi_id From OEOrders Inner Join pt_addnl_curstat On OEOrders.mpi_id = pt_addnl_curstat.mpi_id And OEOrders.enct_num = pt_addnl_curstat.pt_enct_no Inner Join sysUser_Info On OEOrders.user_id = sysUser_Info.User_Id Where OEOrders.Universal_ServiceID = 'FHCV'" type="V_String" />
-                <Field name="User_FName" size="20" source="File: odb:Provider=SQLOLEDB;Password=__EncPwd1__;Persist Security Info=True;User ID=hmedread;Data Source=172.16.24.84;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Workstation ID=YAMADA-Z230;Use Encryption for Data=False;Tag with column collation when possible=False|||Select pt_addnl_curstat.hosp_enct_no, OEOrders.user_id, OEOrders.date_time, OEOrders.cancel_flag, sysUser_Info.User_LName, sysUser_Info.User_FName, OEOrders.mpi_id From OEOrders Inner Join pt_addnl_curstat On OEOrders.mpi_id = pt_addnl_curstat.mpi_id And OEOrders.enct_num = pt_addnl_curstat.pt_enct_no Inner Join sysUser_Info On OEOrders.user_id = sysUser_Info.User_Id Where OEOrders.Universal_ServiceID = 'FHCV'" type="V_String" />
-                <Field name="mpi_id" scale="0" size="20" source="File: odb:Provider=SQLOLEDB;Password=__EncPwd1__;Persist Security Info=True;User ID=hmedread;Data Source=172.16.24.84;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Workstation ID=YAMADA-Z230;Use Encryption for Data=False;Tag with column collation when possible=False|||Select pt_addnl_curstat.hosp_enct_no, OEOrders.user_id, OEOrders.date_time, OEOrders.cancel_flag, sysUser_Info.User_LName, sysUser_Info.User_FName, OEOrders.mpi_id From OEOrders Inner Join pt_addnl_curstat On OEOrders.mpi_id = pt_addnl_curstat.mpi_id And OEOrders.enct_num = pt_addnl_curstat.pt_enct_no Inner Join sysUser_Info On OEOrders.user_id = sysUser_Info.User_Id Where OEOrders.Universal_ServiceID = 'FHCV'" type="FixedDecimal" />
-              </RecordInfo>
-            </MetaInfo>
-          </Properties>
-          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
-        </Node>
-        <Node ToolID="103">
-          <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-            <Position x="258" y="342" />
-          </GuiSettings>
-          <Properties>
-            <Configuration>
-              <ByName_ErrorMode>Warning</ByName_ErrorMode>
-              <ByName_OutputMode>All</ByName_OutputMode>
-              <Mode>ByName</Mode>
-              <SetOutputOrder value="False" />
-            </Configuration>
-            <Annotation DisplayMode="0">
-              <Name />
-              <DefaultAnnotationText />
-              <Left value="False" />
-            </Annotation>
-          </Properties>
-          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
-        </Node>
-        <Node ToolID="104">
+        <Node ToolID="96">
           <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-            <Position x="990" y="390.0001" />
+            <Position x="966.0001" y="390" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3179,14 +2917,14 @@ Table=Select pt_addnl_curstat.hosp_enct_no, OEOrders.user_id, OEOrders.date_time
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
         </Node>
-        <Node ToolID="105">
+        <Node ToolID="97">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="882" y="402" />
+            <Position x="858" y="402" />
           </GuiSettings>
           <Properties>
             <Configuration>
-              <Expression>!IsEmpty([hosp_enct_no])</Expression>
-              <Mode>Simple</Mode>
+              <Expression>!IsEmpty([hosp_enct_no]) &amp;&amp; IsEmpty([cancel_flag])</Expression>
+              <Mode>Custom</Mode>
               <Simple>
                 <Operator>IsNotEmpty</Operator>
                 <Field>hosp_enct_no</Field>
@@ -3197,24 +2935,24 @@ Table=Select pt_addnl_curstat.hosp_enct_no, OEOrders.user_id, OEOrders.date_time
                   <PeriodType>
                   </PeriodType>
                   <PeriodCount>0</PeriodCount>
-                  <StartDate>2019-05-15 19:51:41</StartDate>
-                  <EndDate>2019-05-15 19:51:41</EndDate>
                   <Operand>
                   </Operand>
+                  <StartDate>2019-05-15 19:51:41</StartDate>
+                  <EndDate>2019-05-15 19:51:41</EndDate>
                 </Operands>
               </Simple>
             </Configuration>
             <Annotation DisplayMode="0">
               <Name />
-              <DefaultAnnotationText>!IsEmpty([hosp_enct_no])</DefaultAnnotationText>
+              <DefaultAnnotationText>!IsEmpty([hosp_enct_no]) &amp;&amp; IsEmpty([cancel_flag])</DefaultAnnotationText>
               <Left value="False" />
             </Annotation>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
         </Node>
-        <Node ToolID="106">
+        <Node ToolID="98">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="690" y="150" />
+            <Position x="665.9999" y="150" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3237,9 +2975,9 @@ ORORTM = P...</DefaultAnnotationText>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
         </Node>
-        <Node ToolID="107">
+        <Node ToolID="99">
           <GuiSettings>
-            <Position x="978" y="90" />
+            <Position x="954" y="89.99999" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3253,9 +2991,9 @@ ORORTM = P...</DefaultAnnotationText>
           </Properties>
           <EngineSettings Macro="CReW_OnlyUnique.yxmc" />
         </Node>
-        <Node ToolID="108">
+        <Node ToolID="100">
           <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-            <Position x="990" y="306" />
+            <Position x="966" y="306" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3283,9 +3021,9 @@ ORORTM = P...</DefaultAnnotationText>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
         </Node>
-        <Node ToolID="109">
+        <Node ToolID="101">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="1170" y="89.99999" />
+            <Position x="1146" y="89.99998" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3302,9 +3040,9 @@ ORORTM = P...</DefaultAnnotationText>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
         </Node>
-        <Node ToolID="110">
+        <Node ToolID="102">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-            <Position x="1458" y="78" />
+            <Position x="1422" y="78.00001" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3322,9 +3060,9 @@ OrderDateTimeDiff - Ascending</DefaultAnnotationText>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
         </Node>
-        <Node ToolID="111">
+        <Node ToolID="103">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Unique.Unique">
-            <Position x="1554" y="78" />
+            <Position x="1530" y="78.00002" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3340,41 +3078,9 @@ OrderDateTimeDiff - Ascending</DefaultAnnotationText>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnique" />
         </Node>
-        <Node ToolID="112">
+        <Node ToolID="104">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="438" y="342" />
-          </GuiSettings>
-          <Properties>
-            <Configuration>
-              <Expression>[cancel_flag] != "C"</Expression>
-              <Mode>Simple</Mode>
-              <Simple>
-                <Operator>!=</Operator>
-                <Field>cancel_flag</Field>
-                <Operands>
-                  <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
-                  <DateType>fixed</DateType>
-                  <PeriodDate>2019-05-15 20:54:22</PeriodDate>
-                  <PeriodType>
-                  </PeriodType>
-                  <PeriodCount>0</PeriodCount>
-                  <Operand>C</Operand>
-                  <StartDate>2019-05-15 20:54:22</StartDate>
-                  <EndDate>2019-05-15 20:54:22</EndDate>
-                </Operands>
-              </Simple>
-            </Configuration>
-            <Annotation DisplayMode="0">
-              <Name />
-              <DefaultAnnotationText>[cancel_flag] != "C"</DefaultAnnotationText>
-              <Left value="False" />
-            </Annotation>
-          </Properties>
-          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
-        </Node>
-        <Node ToolID="113">
-          <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="1266" y="90" />
+            <Position x="1242" y="90" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3404,9 +3110,9 @@ OrderDateTimeDiff - Ascending</DefaultAnnotationText>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
         </Node>
-        <Node ToolID="114">
+        <Node ToolID="105">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-            <Position x="1362" y="90" />
+            <Position x="1350" y="89.99999" />
           </GuiSettings>
           <Properties>
             <Configuration joinByRecordPos="False">
@@ -3431,15 +3137,16 @@ OrderDateTimeDiff - Ascending</DefaultAnnotationText>
                     <SelectField field="Right_BooleanAbValue" selected="False" rename="Right_BooleanAbValue" input="Right_" />
                     <SelectField field="Right_ORY4MODATM" selected="False" rename="Right_ORY4MODATM" input="Right_" />
                     <SelectField field="Right_OrderDateTime" selected="False" rename="Right_OrderDateTime" input="Right_" />
-                    <SelectField field="Right_date_time" selected="False" rename="Right_date_time" input="Right_" />
-                    <SelectField field="Right_cancel_flag" selected="False" rename="Right_cancel_flag" input="Right_" />
+                    <SelectField field="Right_PID" selected="True" rename="Right_PID" input="Right_" />
                     <SelectField field="Right_user_id" selected="False" rename="Right_user_id" input="Right_" />
+                    <SelectField field="Right_cancel_flag" selected="False" rename="Right_cancel_flag" input="Right_" />
+                    <SelectField field="Right_date_time" selected="False" rename="Right_date_time" input="Right_" />
                     <SelectField field="Right_mpi_id" selected="True" rename="Right_mpi_id" input="Right_" />
                     <SelectField field="Right_user_full_name" selected="False" rename="Right_user_full_name" input="Right_" />
-                    <SelectField field="Right_OrderDateTimeDiff" selected="False" rename="Right_OrderDateTimeDiff" input="Right_" />
                     <SelectField field="Right_ORHSP#" selected="False" rename="Right_ORHSP#" input="Right_" />
                     <SelectField field="Right_ORSSN" selected="False" rename="Right_ORSSN" input="Right_" />
                     <SelectField field="Right_ORSSNF" selected="False" rename="Right_ORSSNF" input="Right_" />
+                    <SelectField field="Right_OrderDateTimeDiff" selected="False" rename="Right_OrderDateTimeDiff" input="Right_" />
                     <SelectField field="Right_AbValueUpdateDate" selected="False" rename="Right_AbValueUpdateDate" input="Right_" />
                     <SelectField field="*Unknown" selected="True" />
                   </SelectFields>
@@ -3454,9 +3161,9 @@ OrderDateTimeDiff - Ascending</DefaultAnnotationText>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
         </Node>
-        <Node ToolID="115">
+        <Node ToolID="106">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-            <Position x="1662" y="78" />
+            <Position x="1638" y="77.99999" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3473,9 +3180,9 @@ OrderDateTimeDiff - Ascending</DefaultAnnotationText>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
         </Node>
-        <Node ToolID="116">
+        <Node ToolID="107">
           <GuiSettings>
-            <Position x="1938" y="78" />
+            <Position x="1914" y="78.00002" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3499,9 +3206,9 @@ OrderDateTimeDiff - Ascending</DefaultAnnotationText>
           </Properties>
           <EngineSettings Macro="Cleanse.yxmc" />
         </Node>
-        <Node ToolID="117">
+        <Node ToolID="108">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
-            <Position x="2034" y="78.00001" />
+            <Position x="2010" y="78" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3518,9 +3225,9 @@ OrderDateTimeDiff - Ascending</DefaultAnnotationText>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
         </Node>
-        <Node ToolID="118">
+        <Node ToolID="109">
           <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
-            <Position x="2154" y="90.00001" />
+            <Position x="2130" y="89.99997" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3547,9 +3254,9 @@ Table=DataSci.ed.HCVAb</DefaultAnnotationText>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
         </Node>
-        <Node ToolID="119">
+        <Node ToolID="110">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="1074" y="102" />
+            <Position x="1050" y="102" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3579,9 +3286,9 @@ Table=DataSci.ed.HCVAb</DefaultAnnotationText>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
         </Node>
-        <Node ToolID="120">
+        <Node ToolID="111">
           <GuiSettings>
-            <Position x="1842" y="78" />
+            <Position x="1818" y="77.99998" />
           </GuiSettings>
           <Properties>
             <Configuration />
@@ -3593,9 +3300,9 @@ Table=DataSci.ed.HCVAb</DefaultAnnotationText>
           </Properties>
           <EngineSettings Macro="CReW_LabelledBlockUntilDone.yxmc" />
         </Node>
-        <Node ToolID="121">
+        <Node ToolID="112">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="1746" y="102" />
+            <Position x="1722" y="102" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3633,9 +3340,9 @@ Table=DataSci.ed.HCVAb</DefaultAnnotationText>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
         </Node>
-        <Node ToolID="122">
+        <Node ToolID="113">
           <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
-            <Position x="342" y="522" />
+            <Position x="198" y="342.0001" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3670,30 +3377,16 @@ Table=Select pt_addnl_curstat_ALL.hosp_enct_no, sysUser_Info.User_Id, sysUser_In
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
         </Node>
-        <Node ToolID="123">
-          <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
-            <Position x="774" y="414" />
+        <Node ToolID="114">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+            <Position x="858" y="89.99999" />
           </GuiSettings>
           <Properties>
-            <Configuration joinByRecordPos="False">
-              <JoinInfo connection="Left">
-                <Field field="ORACT#" />
-              </JoinInfo>
-              <JoinInfo connection="Right">
-                <Field field="hosp_enct_no" />
-              </JoinInfo>
-              <SelectConfiguration>
-                <Configuration outputConnection="Join">
-                  <OrderChanged value="False" />
-                  <CommaDecimal value="False" />
-                  <SelectFields>
-                    <SelectField field="Right_hosp_enct_no" selected="False" input="Right_" />
-                    <SelectField field="Right_User_LName" selected="False" input="Right_" />
-                    <SelectField field="Right_User_FName" selected="False" input="Right_" />
-                    <SelectField field="*Unknown" selected="True" />
-                  </SelectFields>
-                </Configuration>
-              </SelectConfiguration>
+            <Configuration>
+              <ByName_ErrorMode>Warning</ByName_ErrorMode>
+              <ByName_OutputMode>All</ByName_OutputMode>
+              <Mode>ByName</Mode>
+              <SetOutputOrder value="False" />
             </Configuration>
             <Annotation DisplayMode="0">
               <Name />
@@ -3701,11 +3394,11 @@ Table=Select pt_addnl_curstat_ALL.hosp_enct_no, sysUser_Info.User_Id, sysUser_In
               <Left value="False" />
             </Annotation>
           </Properties>
-          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
         </Node>
-        <Node ToolID="124">
+        <Node ToolID="115">
           <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-            <Position x="989.9999" y="486" />
+            <Position x="1110" y="354" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -3726,31 +3419,11 @@ Table=Select pt_addnl_curstat_ALL.hosp_enct_no, sysUser_Info.User_Id, sysUser_In
             </Configuration>
             <Annotation DisplayMode="0">
               <Name />
-              <AnnotationText>Ab order canceled but still resulted</AnnotationText>
               <DefaultAnnotationText />
               <Left value="False" />
             </Annotation>
           </Properties>
           <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
-        </Node>
-        <Node ToolID="125">
-          <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
-            <Position x="882" y="89.99999" />
-          </GuiSettings>
-          <Properties>
-            <Configuration>
-              <ByName_ErrorMode>Warning</ByName_ErrorMode>
-              <ByName_OutputMode>All</ByName_OutputMode>
-              <Mode>ByName</Mode>
-              <SetOutputOrder value="False" />
-            </Configuration>
-            <Annotation DisplayMode="0">
-              <Name />
-              <DefaultAnnotationText />
-              <Left value="False" />
-            </Annotation>
-          </Properties>
-          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
         </Node>
       </ChildNodes>
     </Node>
@@ -3809,7 +3482,7 @@ Table=Select pt_addnl_curstat_ALL.hosp_enct_no, sysUser_Info.User_Id, sysUser_In
       <Destination ToolID="20" Connection="Right" />
     </Connection>
     <Connection>
-      <Origin ToolID="120" Connection="Output2" />
+      <Origin ToolID="111" Connection="Output2" />
       <Destination ToolID="20" Connection="Left" />
     </Connection>
     <Connection>
@@ -3874,7 +3547,7 @@ Table=Select pt_addnl_curstat_ALL.hosp_enct_no, sysUser_Info.User_Id, sysUser_In
     </Connection>
     <Connection>
       <Origin ToolID="30" Connection="Output" />
-      <Destination ToolID="58" Connection="Input" />
+      <Destination ToolID="55" Connection="Input" />
     </Connection>
     <Connection>
       <Origin ToolID="31" Connection="Output" />
@@ -3886,19 +3559,11 @@ Table=Select pt_addnl_curstat_ALL.hosp_enct_no, sysUser_Info.User_Id, sysUser_In
     </Connection>
     <Connection>
       <Origin ToolID="33" Connection="Output" />
-      <Destination ToolID="44" Connection="Left" />
+      <Destination ToolID="43" Connection="Left" />
     </Connection>
     <Connection>
-      <Origin ToolID="49" Connection="True" />
-      <Destination ToolID="44" Connection="Right" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="33" Connection="Output" />
-      <Destination ToolID="64" Connection="Left" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="49" Connection="False" />
-      <Destination ToolID="64" Connection="Right" />
+      <Origin ToolID="42" Connection="Output" />
+      <Destination ToolID="43" Connection="Right" />
     </Connection>
     <Connection>
       <Origin ToolID="34" Connection="Output" />
@@ -3918,7 +3583,7 @@ Table=Select pt_addnl_curstat_ALL.hosp_enct_no, sysUser_Info.User_Id, sysUser_In
     </Connection>
     <Connection>
       <Origin ToolID="37" Connection="Unique" />
-      <Destination ToolID="59" Connection="Input" />
+      <Destination ToolID="56" Connection="Input" />
     </Connection>
     <Connection>
       <Origin ToolID="39" Connection="Output26" />
@@ -3929,51 +3594,59 @@ Table=Select pt_addnl_curstat_ALL.hosp_enct_no, sysUser_Info.User_Id, sysUser_In
       <Destination ToolID="41" Connection="Input" />
     </Connection>
     <Connection>
-      <Origin ToolID="43" Connection="Output" />
+      <Origin ToolID="43" Connection="Right" />
+      <Destination ToolID="45" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="43" Connection="Left" />
+      <Destination ToolID="46" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="43" Connection="Join" />
+      <Destination ToolID="61" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="43" Connection="Left" />
+      <Destination ToolID="61" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="45" Connection="True" />
+      <Destination ToolID="44" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="47" Connection="Unique" />
+      <Destination ToolID="54" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="50" Connection="False" />
+      <Destination ToolID="54" Connection="Input" />
+    </Connection>
+    <Connection name="#3">
+      <Origin ToolID="53" Connection="Unique" />
+      <Destination ToolID="54" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="47" Connection="Duplicates" />
+      <Destination ToolID="48" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="48" Connection="True" />
       <Destination ToolID="49" Connection="Input" />
     </Connection>
     <Connection>
-      <Origin ToolID="44" Connection="Right" />
-      <Destination ToolID="47" Connection="Input" />
+      <Origin ToolID="49" Connection="Output" />
+      <Destination ToolID="50" Connection="Input" />
     </Connection>
     <Connection>
-      <Origin ToolID="44" Connection="Left" />
-      <Destination ToolID="48" Connection="Input" />
-    </Connection>
-    <Connection name="#4">
-      <Origin ToolID="44" Connection="Left" />
-      <Destination ToolID="57" Connection="Input" />
-    </Connection>
-    <Connection name="#1">
-      <Origin ToolID="50" Connection="Unique" />
-      <Destination ToolID="57" Connection="Input" />
-    </Connection>
-    <Connection name="#2">
-      <Origin ToolID="53" Connection="False" />
-      <Destination ToolID="57" Connection="Input" />
-    </Connection>
-    <Connection name="#3">
-      <Origin ToolID="56" Connection="Unique" />
-      <Destination ToolID="57" Connection="Input" />
-    </Connection>
-    <Connection name="#1">
-      <Origin ToolID="44" Connection="Join" />
-      <Destination ToolID="65" Connection="Input" />
-    </Connection>
-    <Connection name="#2">
-      <Origin ToolID="64" Connection="Join" />
-      <Destination ToolID="65" Connection="Input" />
+      <Origin ToolID="50" Connection="True" />
+      <Destination ToolID="51" Connection="Left" />
     </Connection>
     <Connection>
-      <Origin ToolID="47" Connection="True" />
-      <Destination ToolID="46" Connection="Input" />
+      <Origin ToolID="50" Connection="False" />
+      <Destination ToolID="51" Connection="Right" />
     </Connection>
     <Connection>
-      <Origin ToolID="50" Connection="Duplicates" />
-      <Destination ToolID="51" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="51" Connection="True" />
+      <Origin ToolID="51" Connection="Left" />
       <Destination ToolID="52" Connection="Input" />
     </Connection>
     <Connection>
@@ -3981,312 +3654,268 @@ Table=Select pt_addnl_curstat_ALL.hosp_enct_no, sysUser_Info.User_Id, sysUser_In
       <Destination ToolID="53" Connection="Input" />
     </Connection>
     <Connection>
-      <Origin ToolID="53" Connection="True" />
-      <Destination ToolID="54" Connection="Left" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="53" Connection="False" />
-      <Destination ToolID="54" Connection="Right" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="54" Connection="Left" />
-      <Destination ToolID="55" Connection="Input" />
+      <Origin ToolID="54" Connection="Output" />
+      <Destination ToolID="58" Connection="Input" />
     </Connection>
     <Connection>
       <Origin ToolID="55" Connection="Output" />
-      <Destination ToolID="56" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="57" Connection="Output" />
-      <Destination ToolID="61" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="58" Connection="Output" />
       <Destination ToolID="31" Connection="Input" />
     </Connection>
     <Connection>
-      <Origin ToolID="59" Connection="Output" />
+      <Origin ToolID="56" Connection="Output" />
       <Destination ToolID="29" Connection="Input2" />
     </Connection>
     <Connection>
-      <Origin ToolID="60" Connection="Output" />
-      <Destination ToolID="62" Connection="Input" />
+      <Origin ToolID="57" Connection="Output" />
+      <Destination ToolID="59" Connection="Input" />
     </Connection>
     <Connection>
-      <Origin ToolID="61" Connection="Output" />
-      <Destination ToolID="60" Connection="Input" />
+      <Origin ToolID="58" Connection="Output" />
+      <Destination ToolID="57" Connection="Input" />
     </Connection>
     <Connection>
-      <Origin ToolID="62" Connection="Output1" />
+      <Origin ToolID="59" Connection="Output1" />
       <Destination ToolID="39" Connection="Input2" />
     </Connection>
     <Connection>
-      <Origin ToolID="63" Connection="Output" />
-      <Destination ToolID="43" Connection="Input" />
+      <Origin ToolID="60" Connection="Output" />
+      <Destination ToolID="42" Connection="Input" />
     </Connection>
     <Connection>
-      <Origin ToolID="64" Connection="Join" />
+      <Origin ToolID="61" Connection="Output" />
+      <Destination ToolID="47" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="63" Connection="Output" />
+      <Destination ToolID="64" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="64" Connection="True" />
+      <Destination ToolID="79" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="65" Connection="False" />
       <Destination ToolID="66" Connection="Input" />
     </Connection>
     <Connection>
-      <Origin ToolID="65" Connection="Output" />
-      <Destination ToolID="50" Connection="Input" />
+      <Origin ToolID="65" Connection="True" />
+      <Destination ToolID="82" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="111" Connection="Output2" />
+      <Destination ToolID="82" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="65" Connection="False" />
+      <Destination ToolID="78" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="111" Connection="Output2" />
+      <Destination ToolID="78" Connection="Left" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="67" Connection="Unique" />
+      <Destination ToolID="70" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="71" Connection="Unique" />
+      <Destination ToolID="70" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="67" Connection="Duplicates" />
+      <Destination ToolID="68" Connection="Input" />
     </Connection>
     <Connection>
       <Origin ToolID="68" Connection="Output" />
-      <Destination ToolID="69" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="69" Connection="True" />
-      <Destination ToolID="84" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="70" Connection="False" />
       <Destination ToolID="71" Connection="Input" />
     </Connection>
-    <Connection>
-      <Origin ToolID="70" Connection="True" />
-      <Destination ToolID="87" Connection="Right" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="120" Connection="Output2" />
-      <Destination ToolID="87" Connection="Left" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="70" Connection="False" />
-      <Destination ToolID="83" Connection="Right" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="120" Connection="Output2" />
-      <Destination ToolID="83" Connection="Left" />
-    </Connection>
     <Connection name="#1">
-      <Origin ToolID="72" Connection="Unique" />
-      <Destination ToolID="75" Connection="Input" />
+      <Origin ToolID="69" Connection="Output" />
+      <Destination ToolID="81" Connection="Input" />
     </Connection>
     <Connection name="#2">
-      <Origin ToolID="76" Connection="Unique" />
-      <Destination ToolID="75" Connection="Input" />
+      <Origin ToolID="80" Connection="Output" />
+      <Destination ToolID="81" Connection="Input" />
     </Connection>
     <Connection>
-      <Origin ToolID="72" Connection="Duplicates" />
+      <Origin ToolID="70" Connection="Output" />
+      <Destination ToolID="74" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="72" Connection="Output" />
       <Destination ToolID="73" Connection="Input" />
     </Connection>
     <Connection>
       <Origin ToolID="73" Connection="Output" />
+      <Destination ToolID="67" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="74" Connection="Output" />
+      <Destination ToolID="75" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="75" Connection="Output26" />
       <Destination ToolID="76" Connection="Input" />
     </Connection>
-    <Connection name="#1">
-      <Origin ToolID="74" Connection="Output" />
-      <Destination ToolID="86" Connection="Input" />
-    </Connection>
-    <Connection name="#2">
-      <Origin ToolID="85" Connection="Output" />
-      <Destination ToolID="86" Connection="Input" />
-    </Connection>
     <Connection>
-      <Origin ToolID="75" Connection="Output" />
-      <Destination ToolID="79" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="77" Connection="Output" />
-      <Destination ToolID="78" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="78" Connection="Output" />
-      <Destination ToolID="72" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="79" Connection="Output" />
-      <Destination ToolID="80" Connection="Input2" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="80" Connection="Output26" />
-      <Destination ToolID="81" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="81" Connection="Output" />
-      <Destination ToolID="82" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="83" Connection="Join" />
-      <Destination ToolID="85" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="84" Connection="Output" />
-      <Destination ToolID="70" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="86" Connection="Output" />
+      <Origin ToolID="76" Connection="Output" />
       <Destination ToolID="77" Connection="Input" />
     </Connection>
     <Connection>
-      <Origin ToolID="87" Connection="Join" />
-      <Destination ToolID="74" Connection="Input" />
+      <Origin ToolID="78" Connection="Join" />
+      <Destination ToolID="80" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="79" Connection="Output" />
+      <Destination ToolID="65" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="81" Connection="Output" />
+      <Destination ToolID="72" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="82" Connection="Join" />
+      <Destination ToolID="69" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="84" Connection="Output" />
+      <Destination ToolID="85" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="85" Connection="True" />
+      <Destination ToolID="89" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="86" Connection="Output" />
+      <Destination ToolID="87" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="89" Connection="Output" />
+      <Destination ToolID="87" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="87" Connection="Left" />
+      <Destination ToolID="91" Connection="Input" />
     </Connection>
     <Connection>
       <Origin ToolID="89" Connection="Output" />
       <Destination ToolID="90" Connection="Input" />
     </Connection>
     <Connection>
-      <Origin ToolID="90" Connection="True" />
-      <Destination ToolID="94" Connection="Input" />
+      <Origin ToolID="90" Connection="Unique" />
+      <Destination ToolID="93" Connection="Input" />
     </Connection>
     <Connection>
-      <Origin ToolID="91" Connection="Output" />
-      <Destination ToolID="92" Connection="Left" />
+      <Origin ToolID="91" Connection="True" />
+      <Destination ToolID="88" Connection="Input" />
     </Connection>
     <Connection>
-      <Origin ToolID="94" Connection="Output" />
-      <Destination ToolID="92" Connection="Right" />
+      <Origin ToolID="92" Connection="Output" />
+      <Destination ToolID="94" Connection="Right" />
     </Connection>
     <Connection>
-      <Origin ToolID="92" Connection="Left" />
-      <Destination ToolID="96" Connection="Input" />
+      <Origin ToolID="98" Connection="Output" />
+      <Destination ToolID="94" Connection="Left" />
     </Connection>
     <Connection>
-      <Origin ToolID="94" Connection="Output" />
+      <Origin ToolID="93" Connection="Output" />
       <Destination ToolID="95" Connection="Input" />
     </Connection>
     <Connection>
-      <Origin ToolID="95" Connection="Unique" />
-      <Destination ToolID="99" Connection="Input" />
+      <Origin ToolID="94" Connection="Right" />
+      <Destination ToolID="97" Connection="Input" />
     </Connection>
     <Connection>
-      <Origin ToolID="96" Connection="True" />
-      <Destination ToolID="93" Connection="Input" />
+      <Origin ToolID="94" Connection="Left" />
+      <Destination ToolID="100" Connection="Input" />
     </Connection>
     <Connection name="#1">
-      <Origin ToolID="97" Connection="Output" />
-      <Destination ToolID="103" Connection="Input" />
+      <Origin ToolID="94" Connection="Join" />
+      <Destination ToolID="114" Connection="Input" />
+    </Connection>
+    <Connection name="#3">
+      <Origin ToolID="94" Connection="Left" />
+      <Destination ToolID="114" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="94" Connection="Join" />
+      <Destination ToolID="115" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="95" Connection="Output" />
+      <Destination ToolID="98" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="97" Connection="True" />
+      <Destination ToolID="96" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="99" Connection="Unique" />
+      <Destination ToolID="106" Connection="Input" />
+    </Connection>
+    <Connection name="#3">
+      <Origin ToolID="103" Connection="Unique" />
+      <Destination ToolID="106" Connection="Input" />
     </Connection>
     <Connection name="#2">
+      <Origin ToolID="104" Connection="False" />
+      <Destination ToolID="106" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="99" Connection="Duplicates" />
+      <Destination ToolID="110" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="101" Connection="Output" />
+      <Destination ToolID="104" Connection="Input" />
+    </Connection>
+    <Connection>
       <Origin ToolID="102" Connection="Output" />
       <Destination ToolID="103" Connection="Input" />
     </Connection>
     <Connection>
-      <Origin ToolID="98" Connection="Output" />
+      <Origin ToolID="104" Connection="True" />
+      <Destination ToolID="105" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="104" Connection="False" />
+      <Destination ToolID="105" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="105" Connection="Left" />
+      <Destination ToolID="102" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="106" Connection="Output" />
       <Destination ToolID="112" Connection="Input" />
     </Connection>
     <Connection>
-      <Origin ToolID="99" Connection="Output" />
-      <Destination ToolID="101" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="100" Connection="Right" />
-      <Destination ToolID="105" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="100" Connection="Left" />
+      <Origin ToolID="107" Connection="Output26" />
       <Destination ToolID="108" Connection="Input" />
     </Connection>
-    <Connection name="#1">
-      <Origin ToolID="100" Connection="Join" />
-      <Destination ToolID="125" Connection="Input" />
-    </Connection>
-    <Connection name="#2">
-      <Origin ToolID="123" Connection="Join" />
-      <Destination ToolID="125" Connection="Input" />
-    </Connection>
-    <Connection name="#4">
-      <Origin ToolID="100" Connection="Left" />
-      <Destination ToolID="115" Connection="Input" />
-    </Connection>
-    <Connection name="#1">
-      <Origin ToolID="107" Connection="Unique" />
-      <Destination ToolID="115" Connection="Input" />
-    </Connection>
-    <Connection name="#3">
-      <Origin ToolID="111" Connection="Unique" />
-      <Destination ToolID="115" Connection="Input" />
-    </Connection>
-    <Connection name="#2">
-      <Origin ToolID="113" Connection="False" />
-      <Destination ToolID="115" Connection="Input" />
-    </Connection>
     <Connection>
-      <Origin ToolID="101" Connection="Output" />
-      <Destination ToolID="106" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="105" Connection="True" />
-      <Destination ToolID="104" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="106" Connection="Output" />
-      <Destination ToolID="100" Connection="Left" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="112" Connection="True" />
-      <Destination ToolID="100" Connection="Right" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="106" Connection="Output" />
-      <Destination ToolID="123" Connection="Left" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="112" Connection="False" />
-      <Destination ToolID="123" Connection="Right" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="107" Connection="Duplicates" />
-      <Destination ToolID="119" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="109" Connection="Output" />
-      <Destination ToolID="113" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="110" Connection="Output" />
-      <Destination ToolID="111" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="113" Connection="True" />
-      <Destination ToolID="114" Connection="Left" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="113" Connection="False" />
-      <Destination ToolID="114" Connection="Right" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="114" Connection="Left" />
-      <Destination ToolID="110" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="115" Connection="Output" />
-      <Destination ToolID="121" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="116" Connection="Output26" />
-      <Destination ToolID="117" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="117" Connection="Output" />
-      <Destination ToolID="118" Connection="Input" />
-    </Connection>
-    <Connection>
-      <Origin ToolID="119" Connection="True" />
+      <Origin ToolID="108" Connection="Output" />
       <Destination ToolID="109" Connection="Input" />
     </Connection>
     <Connection>
-      <Origin ToolID="120" Connection="Output1" />
-      <Destination ToolID="116" Connection="Input2" />
+      <Origin ToolID="110" Connection="True" />
+      <Destination ToolID="101" Connection="Input" />
     </Connection>
     <Connection>
-      <Origin ToolID="121" Connection="Output" />
-      <Destination ToolID="120" Connection="Input" />
+      <Origin ToolID="111" Connection="Output1" />
+      <Destination ToolID="107" Connection="Input2" />
     </Connection>
     <Connection>
-      <Origin ToolID="122" Connection="Output" />
-      <Destination ToolID="98" Connection="Input" />
+      <Origin ToolID="112" Connection="Output" />
+      <Destination ToolID="111" Connection="Input" />
     </Connection>
     <Connection>
-      <Origin ToolID="123" Connection="Join" />
-      <Destination ToolID="124" Connection="Input" />
+      <Origin ToolID="113" Connection="Output" />
+      <Destination ToolID="92" Connection="Input" />
     </Connection>
     <Connection>
-      <Origin ToolID="125" Connection="Output" />
-      <Destination ToolID="107" Connection="Input" />
+      <Origin ToolID="114" Connection="Output" />
+      <Destination ToolID="99" Connection="Input" />
     </Connection>
   </Connections>
   <Properties>
